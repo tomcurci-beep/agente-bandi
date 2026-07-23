@@ -6,15 +6,8 @@ import re
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
-KEYWORDS_ASD = ['asd', 'a.s.d.', 'associazione sportiva', 'associazioni sportive', 'impianto sportivo', 
-                'centro sportivo', 'attività sportiva', 'promozione sportiva', 'fondo sport', 'sport giovanile',
-                'team sportivo', 'società sportiva', 'sport dilettantistico', 'evento sportivo']
-
 KEYWORDS_CHIUSO = ['chiuso', 'scaduto', 'concluso', 'terminato', 'archiviato', 'esito', 'aggiudicazione',
                    'graduatoria', 'avviso di aggiudicazione', 'esito di gara']
-
-KEYWORDS_ESCLUDI = ['sportello', 'trasporti', 'edilizia', 'universale', 'civile', 'scolastica', 
-                    'assistenza specialistica', 'orientation desk', 'contribuente']
 
 KEYWORDS_DESTINATARI_ASD = [
     'associazione sportiva', 'associazioni sportive', 'a.s.d.', 'asd', 'società sportiva',
@@ -24,34 +17,12 @@ KEYWORDS_DESTINATARI_ASD = [
     'fondo sport', 'sport giovanile', 'giovani e sport', 'movimento sportivo'
 ]
 
-LINK_ESCLUSI = ['cerca-bandi', 'chi-siamo', 'contatti', 'privacy', 'cookie', 'home', 'login', 'registrati',
-                'newsletter', 'faq', 'about', 'bandi-attivi']
-
-def is_link_valido(link):
-    link_lower = link.lower()
-    for escluso in LINK_ESCLUSI:
-        if escluso in link_lower:
-            return False
-    if not any(x in link_lower for x in ['bando', 'avviso', 'contributo', 'finanziamento', 'progetto']):
-        return False
-    return True
-
 def is_aperto(titolo):
     testo = titolo.lower()
     for kw in KEYWORDS_CHIUSO:
         if kw in testo:
             return False
     return True
-
-def is_per_asd_titolo(titolo):
-    testo = titolo.lower()
-    for kw in KEYWORDS_ESCLUDI:
-        if kw in testo:
-            return False
-    for kw in KEYWORDS_ASD:
-        if kw in testo:
-            return True
-    return False
 
 def analizza_destinatari(url):
     try:
@@ -75,7 +46,60 @@ def analizza_destinatari(url):
         return {"per_asd": False, "destinatari_trovati": [], "contesto_destinatari": ""}
 
 def cerca_csvnet():
-    url = "https://infobandi.csvnet.it/"
+    url = "https://infobandi.csvnet.it/bandi/?destinatario=associazioni-sportive"
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        soup = BeautifulSoup(r.text, 'html.parser')
+        bandi = []
+        
+        for heading in soup.find_all(['h2', 'h3']):
+            titolo = heading.get_text(strip=True)
+            if len(titolo) < 5 or not is_aperto(titolo):
+                continue
+            
+            link = None
+            for sibling in heading.find_all_next(['a'], limit=10):
+                testo_link = sibling.get_text(strip=True).lower()
+                if 'apri' in testo_link or 'bando' in testo_link:
+                    link = sibling['href']
+                    break
+            
+            if not link:
+                continue
+                
+            link_completo = link if link.startswith('http') else "https://infobandi.csvnet.it" + link
+            
+            scadenza = ""
+            for sibling in heading.find_all_next(['p', 'span', 'div'], limit=5):
+                testo = sibling.get_text(strip=True)
+                if 'scadenza' in testo.lower() or '/' in testo:
+                    scadenza = testo
+                    break
+            
+            ente = ""
+            for sibling in heading.find_all_next(['h4', 'h5', 'p'], limit=3):
+                testo = sibling.get_text(strip=True)
+                if testo and testo != titolo and len(testo) < 100:
+                    ente = testo
+                    break
+            
+            info = analizza_destinatari(link_completo)
+            bandi.append({
+                "titolo": titolo[:150],
+                "ente": ente[:100],
+                "scadenza": scadenza[:50],
+                "link": link_completo,
+                "per_asd": info["per_asd"],
+                "destinatari": info["destinatari_trovati"][:5],
+                "contesto": info["contesto_destinatari"][:200]
+            })
+        
+        return {"fonte": "CSVNet (filtro: associazioni sportive)", "totale": len(bandi), "bandi": bandi[:25]}
+    except Exception as e:
+        return {"fonte": "CSVNet", "errore": str(e)}
+
+def cerca_sportesalute():
+    url = "https://www.sportesalute.eu/bandi-e-avvisi.html"
     try:
         r = requests.get(url, headers=HEADERS, timeout=30)
         soup = BeautifulSoup(r.text, 'html.parser')
@@ -84,24 +108,41 @@ def cerca_csvnet():
         
         for item in soup.find_all('a', href=True):
             titolo = item.get_text(strip=True)
-            link = item['href'] if item['href'].startswith('http') else url + item['href']
+            link = item['href']
             
-            if len(titolo) < 5 or not is_aperto(titolo) or not is_link_valido(link) or link in visti:
+            if any(x in link.lower() for x in ['.html', 'societa', 'identita', 'partner', 'news', 'foto', 'video', 
+                                                  'protocolli', 'whistleblowing', 'trasparente', 'sostenibilita',
+                                                  'territori', 'basilicata', 'emilia', 'friuli', 'valle', 'lombardia',
+                                                  'piemonte', 'sicilia', 'toscana', 'veneto', 'puglia', 'lazio']):
+                if not any(x in link.lower() for x in ['bando', 'avviso', 'contributo']):
+                    continue
+            
+            if len(titolo) < 10 or not is_aperto(titolo):
                 continue
-            visti.add(link)
             
-            info = analizza_destinatari(link)
-            bandi.append({
-                "titolo": titolo[:150], "link": link,
-                "per_asd": info["per_asd"], "destinatari": info["destinatari_trovati"][:5],
-                "contesto": info["contesto_destinatari"][:200]
-            })
-        return {"fonte": "CSVNet", "totale": len(bandi), "bandi": bandi[:15]}
+            link_completo = link if link.startswith('http') else "https://www.sportesalute.eu" + link
+            if link_completo in visti:
+                continue
+            visti.add(link_completo)
+            
+            if any(x in link.lower() for x in ['bando', 'avviso', 'contributo', 'finanziamento']):
+                info = analizza_destinatari(link_completo)
+                bandi.append({
+                    "titolo": titolo[:150],
+                    "ente": "",
+                    "scadenza": "",
+                    "link": link_completo,
+                    "per_asd": info["per_asd"],
+                    "destinatari": info["destinatari_trovati"][:5],
+                    "contesto": info["contesto_destinatari"][:200]
+                })
+        
+        return {"fonte": "Sport e Salute", "totale": len(bandi), "bandi": bandi[:15]}
     except Exception as e:
-        return {"fonte": "CSVNet", "errore": str(e)}
+        return {"fonte": "Sport e Salute", "errore": str(e)}
 
 def cerca_regione_puglia():
-    url = "https://www.regione.puglia.it/web/bandi"
+    url = "https://www.regione.puglia.it/bandi-e-avvisi"
     try:
         r = requests.get(url, headers=HEADERS, timeout=30)
         soup = BeautifulSoup(r.text, 'html.parser')
@@ -119,96 +160,49 @@ def cerca_regione_puglia():
             elif not link.startswith('http'):
                 continue
             
-            if link in visti or not is_per_asd_titolo(titolo):
+            if link in visti:
                 continue
             visti.add(link)
             
-            # NO analisi destinatari qui (troppo lento su Regione Puglia)
+            per_asd = any(kw in titolo.lower() for kw in ['sport', 'asd', 'associazione', 'giovanile', 'impianto'])
+            
             bandi.append({
-                "titolo": titolo[:150], "link": link,
-                "per_asd": "da_verificare", "destinatari": [],
-                "contesto": "Analisi destinatari non effettuata (sito JS-heavy)"
+                "titolo": titolo[:150],
+                "ente": "Regione Puglia",
+                "scadenza": "",
+                "link": link,
+                "per_asd": per_asd,
+                "destinatari": [],
+                "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
             })
-        return {"fonte": "Regione Puglia", "totale": len(bandi), "bandi": bandi[:10]}
+        
+        return {"fonte": "Regione Puglia", "totale": len(bandi), "bandi": bandi[:15]}
     except Exception as e:
         return {"fonte": "Regione Puglia", "errore": str(e)}
 
 def cerca_comune(url, nome):
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=20)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        bandi = []
-        visti = set()
-        
-        for item in soup.find_all('a', href=True):
-            titolo = item.get_text(strip=True)
-            if len(titolo) < 10 or not is_aperto(titolo):
-                continue
-            
-            link = item['href']
-            if link.startswith('/'):
-                link = url + link.lstrip('/')
-            elif not link.startswith('http'):
-                link = url + link
-            
-            if link in visti or not is_per_asd_titolo(titolo):
-                continue
-            visti.add(link)
-            
-            # NO analisi destinatari qui (troppo lento su comuni)
-            bandi.append({
-                "titolo": titolo[:150], "link": link,
-                "per_asd": "da_verificare", "destinatari": [],
-                "contesto": "Analisi destinatari non effettuata (verificare manualmente)"
-            })
-        return {"fonte": nome, "totale": len(bandi), "bandi": bandi[:10]}
-    except Exception as e:
-        return {"fonte": nome, "errore": str(e)}
-
-def cerca_sportesalute():
-    url = "https://www.sportesalute.eu/bandi-e-avvisi.html"
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=30)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        bandi = []
-        visti = set()
-        
-        for item in soup.find_all('a', href=True):
-            titolo = item.get_text(strip=True)
-            link = item['href']
-            
-            if link in ['#', 'bandi-e-avvisi.html', '/bandi-e-avvisi.html', '']:
-                continue
-            if len(titolo) < 10 or not is_aperto(titolo):
-                continue
-            
-            link_completo = link if link.startswith('http') else "https://www.sportesalute.eu" + link
-            if link_completo in visti:
-                continue
-            visti.add(link_completo)
-            
-            if '/bando-' in link or '/avviso-' in link or 'dettaglio' in link or 'id=' in link or '.html' in link:
-                info = analizza_destinatari(link_completo)
-                bandi.append({
-                    "titolo": titolo[:150], "link": link_completo,
-                    "per_asd": info["per_asd"], "destinatari": info["destinatari_trovati"][:5],
-                    "contesto": info["contesto_destinatari"][:200]
-                })
-        return {"fonte": "Sport e Salute", "totale": len(bandi), "bandi": bandi[:15]}
-    except Exception as e:
-        return {"fonte": "Sport e Salute", "errore": str(e)}
+    return {
+        "fonte": nome,
+        "nota": f"Verificare manualmente su: {url}",
+        "totale": 0,
+        "bandi": []
+    }
 
 if __name__ == "__main__":
     risultati = {
         "data": str(datetime.datetime.now()),
-        "filtri": {"solo_asd": True, "solo_aperti": True, "analisi_destinatari": "parziale"},
+        "filtri": {
+            "destinatario": "associazioni sportive",
+            "solo_aperti": True,
+            "analisi_destinatari": True
+        },
         "fonti": [
             cerca_csvnet(),
+            cerca_sportesalute(),
             cerca_regione_puglia(),
             cerca_comune("https://www.comune.trani.bt.it/", "Comune di Trani"),
             cerca_comune("https://www.comune.barletta.bt.it/", "Comune di Barletta"),
-            cerca_comune("https://www.comune.andria.bt.it/", "Comune di Andria"),
-            cerca_sportesalute()
+            cerca_comune("https://www.comune.andria.bt.it/", "Comune di Andria")
         ]
     }
     
