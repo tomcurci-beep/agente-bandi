@@ -1,10 +1,73 @@
 {
-  "data": "2026-07-23 13:43:33.344162",
-  "fonte": "BandiAttivi",
-  "totale": 1,
-  "bandi": [
+  "data": "2026-07-23 13:48:06.177512",
+  "fonti": [
     {
-      "errore": "HTTPSConnectionPool(host='www.bandiattivi.it', port=443): Max retries exceeded with url: /bandi/?s=puglia (Caused by NameResolutionError(\"HTTPSConnection(host='www.bandiattivi.it', port=443): Failed to resolve 'www.bandiattivi.it' ([Errno -2] Name or service not known)\"))"
+      "fonte": "CSVNet",
+      "totale": 6,
+      "bandi": [
+        {
+          "titolo": "Segnala un bando",
+          "link": "https://infobandi.csvnet.it/home/segnala-un-bando/"
+        },
+        {
+          "titolo": "Segnala un bando",
+          "link": "https://infobandi.csvnet.it/home/segnala-un-bando/"
+        },
+        {
+          "titolo": "",
+          "link": "https://infobandi.csvnet.it/bando-della-commissione-europea-per-rafforzare-il-ruolo-delle-parti-sociali/"
+        },
+        {
+          "titolo": "",
+          "link": "https://infobandi.csvnet.it/bando-zenit-competenze-digitali-delle-persone-con-disabilita/"
+        },
+        {
+          "titolo": "Bando RIZA per progetti di donne con background migratorio – 2^ ciclo",
+          "link": "https://infobandi.csvnet.it/bando-riza-per-progetti-di-donne-con-background-migratorio-2-ciclo/"
+        },
+        {
+          "titolo": "Avviso “Vita & Opportunità”",
+          "link": "https://infobandi.csvnet.it/avviso-vita-opportunita/"
+        }
+      ]
+    },
+    {
+      "fonte": "Regione Puglia",
+      "totale": 0,
+      "bandi": []
+    },
+    {
+      "fonte": "Comune di Trani",
+      "totale": 2,
+      "bandi": [
+        {
+          "titolo": "Avviso per Assistenza specialistica scolastica, pubblicato un chiarimento",
+          "link": "https://www.comune.trani.bt.it/it/news/avviso-per-assistenza-specialista-scolastica-pubblicato-un-chiarimento"
+        },
+        {
+          "titolo": "Assistenza specialistica scolastica, avviso per la presentazione di domande",
+          "link": "https://www.comune.trani.bt.it/it/news/assistenza-specialistica-scolastica-avviso-per-la-presentazione-di-domande"
+        }
+      ]
+    },
+    {
+      "fonte": "Comune di Barletta",
+      "totale": 0,
+      "bandi": []
+    },
+    {
+      "fonte": "Comune di Andria",
+      "totale": 1,
+      "bandi": [
+        {
+          "titolo": "Servizio Civile Universale Bando 2025-26: Graduatorie dei Progetti",
+          "link": "https://www.comune.andria.bt.it/it/news/servizio-civile-universale-bando-2025-26-graduatorie-dei-progetti"
+        }
+      ]
+    },
+    {
+      "fonte": "Sport e Salute",
+      "errore": "HTTPSConnectionPool(host='www.sportesalute.gov.it', port=443): Max retries exceeded with url: /bandi (Caused by NameResolutionError(\"HTTPSConnection(host='www.sportesalute.gov.it', port=443): Failed to resolve 'www.sportesalute.gov.it' ([Errno -2] Name or service not known)\"))"
     }
   ]
 }
