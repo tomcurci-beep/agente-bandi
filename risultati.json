@@ -1,35 +1,96 @@
 {
-  "data": "2026-07-23 13:54:18.005371",
+  "data": "2026-07-23 14:02:09.939846",
   "filtri": {
     "solo_asd": true,
     "solo_aperti": true,
-    "keywords_asd": [
-      "asd",
-      "a.s.d.",
-      "associazione sportiva",
-      "associazioni sportive",
-      "sport",
-      "impianto sportivo",
-      "centro sportivo",
-      "attività sportiva",
-      "promozione sportiva",
-      "fondo sport"
-    ],
-    "keywords_escluse": [
-      "chiuso",
-      "scaduto",
-      "concluso",
-      "terminato",
-      "archiviato",
-      "esito",
-      "aggiudicazione"
-    ]
+    "analisi_destinatari": true
   },
   "fonti": [
     {
       "fonte": "CSVNet",
-      "totale": 0,
-      "bandi": []
+      "totale": 24,
+      "bandi": [
+        {
+          "titolo": "Cerca un bando",
+          "link": "https://infobandi.csvnet.it/cerca-bandi/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Chi siamo",
+          "link": "https://infobandi.csvnet.it/home/chi-siamo/",
+          "per_asd": true,
+          "destinatari": [
+            "ets"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "Cerca un bando",
+          "link": "https://infobandi.csvnet.it/cerca-bandi/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Chi siamo",
+          "link": "https://infobandi.csvnet.it/home/chi-siamo/",
+          "per_asd": true,
+          "destinatari": [
+            "ets"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "CERCA UN BANDO",
+          "link": "https://infobandi.csvnet.it//bandi-attivi/",
+          "per_asd": true,
+          "destinatari": [
+            "associazioni sportive",
+            "ets",
+            "promozione sociale"
+          ],
+          "contesto": "beneficiario tutti amministrazioni locali amministrazioni nazionali amministrazioni regionali associazioni di promozione sociale associazioni sportive dilettantistiche camere di commercio centri/enti "
+        },
+        {
+          "titolo": "Bando RIZA per progetti di donne con background migratorio – 2^ ciclo",
+          "link": "https://infobandi.csvnet.it/bando-riza-per-progetti-di-donne-con-background-migratorio-2-ciclo/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "beneficiarie del finanziamento. modalità e procedure per la presentazione il bando è organizzato in due fasi: fase 1 : compilazione e invio del modulo online entro il 31 luglio 2026 . fase 2 : le orga"
+        },
+        {
+          "titolo": "Avviso “Vita & Opportunità”",
+          "link": "https://infobandi.csvnet.it/avviso-vita-opportunita/",
+          "per_asd": true,
+          "destinatari": [
+            "ets"
+          ],
+          "contesto": "promotori per favorire l’attuazione e la sostenibilità degli interventi. dotazione finanziaria disponibile la dotazione complessiva del bando ammonta a 386.400.000 euro , ripartiti tra le tre linee di"
+        },
+        {
+          "titolo": "Contributi annuali della Banca d’Italia – 2^ scadenza 2026",
+          "link": "https://infobandi.csvnet.it/contributi-annuali-della-banca-ditalia-2-scadenza-2026/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "beneficiari di importi superiori a mille euro (pubblicato annualmente). tag minori cultura giovani inclusione sociale salute anziani ricerca scuole banca d'italia contributi annuali le informazioni co"
+        },
+        {
+          "titolo": "DAPHNE 2026: Prevenire e combattere la violenza di genere e nei confronti dei minori",
+          "link": "https://infobandi.csvnet.it/daphne-2026-prevenire-e-combattere-la-violenza-di-genere-e-nei-confronti-dei-minori/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "destinatari professionisti dei servizi sociali, operatori sanitari e insegnanti, persone che lavorano con bambini e giovani, rappresentanti delle forze dell’ordine, personale dei centri di accoglienza"
+        },
+        {
+          "titolo": "Prevenire gli sprechi alimentari",
+          "link": "https://infobandi.csvnet.it/prevenire-gli-sprechi-alimentari/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "beneficiari sia attraverso partenariati. nel caso dei consorzi, è richiesta la presenza di almeno una piccola o media impresa (pmi). dotazione finanziaria disponibile 4.000.000 euro. entità del contri"
+        }
+      ]
     },
     {
       "fonte": "Regione Puglia",
@@ -38,21 +99,8 @@
     },
     {
       "fonte": "Comune di Trani",
-      "totale": 3,
-      "bandi": [
-        {
-          "titolo": "SuediSportello Unico Edilizia digitale",
-          "link": "https://www.suedi.cloud/trani/"
-        },
-        {
-          "titolo": "Impresa in un giornoSportello Unico delle Attività Produttive",
-          "link": "https://www.impresainungiorno.gov.it/web/guest/comune?codCatastale=L328"
-        },
-        {
-          "titolo": "Mobilità e trasporti",
-          "link": "https://www.comune.trani.bt.it//it/page/mobilita-e-trasporti?fromService=1"
-        }
-      ]
+      "totale": 0,
+      "bandi": []
     },
     {
       "fonte": "Comune di Barletta",
@@ -61,97 +109,47 @@
     },
     {
       "fonte": "Comune di Andria",
-      "totale": 6,
+      "totale": 1,
       "bandi": [
         {
-          "titolo": "ORIENTATION DESK - Lo sportello di orientamento al lavoro",
-          "link": "https://www.comune.andria.bt.it/it/news/orientation-desk-lo-sportello-di-orientamento-al-lavoro"
-        },
-        {
-          "titolo": "Sportello telematicoAccedi per compilare le pratiche comodamente da casa e in qualsiasi momento",
-          "link": "https://sportelloamico.comune.andria.bt.it/"
-        },
-        {
-          "titolo": "LINKMate - Sportello del contribuenteImmobili posseduti in catasto, versamenti effettuati, riepiloghi contabili",
-          "link": "https://linkmate.servizienti.it/linkmateWeb/login?c=A285"
-        },
-        {
           "titolo": "Bici In ComuneIl progetto promuove l’uso della bicicletta negli spostamenti quotidiani casa-scuola, casa-lavoro e casa-impianto sportivo con estension",
-          "link": "https://www.comune.andria.bt.it/it/page/bici-in-comune-progetto-pedala-fra-sport-cibo-e-salute"
-        },
-        {
-          "titolo": "Sportello Unico Edilizia - Prenotazione appuntamentiSportello Unico Edilizia - Prenotazione appuntamenti",
-          "link": "https://andria.publisys.it/sito/home"
-        },
-        {
-          "titolo": "Mobilità e trasporti",
-          "link": "https://www.comune.andria.bt.it//it/page/125814?fromService=1"
+          "link": "https://www.comune.andria.bt.it/it/page/bici-in-comune-progetto-pedala-fra-sport-cibo-e-salute",
+          "per_asd": true,
+          "destinatari": [
+            "impianto sportivo"
+          ],
+          "contesto": ""
         }
       ]
     },
     {
       "fonte": "Sport e Salute",
-      "totale": 121,
+      "totale": 2,
       "bandi": [
         {
-          "titolo": "Bandi Sport e Salute",
-          "link": "https://www.sportesalute.eu/bandi-e-avvisi.html"
+          "titolo": "Avviso Sport è Salute",
+          "link": "https://www.sportesalute.eu/avviso-sportesalute.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
         },
         {
-          "titolo": "Bandi Sport e Salute",
-          "link": "https://www.sportesalute.eu/bandi-e-avvisi.html"
-        },
-        {
-          "titolo": "Bandi Sport e Salute",
-          "link": "https://www.sportesalute.eu/bandi-e-avvisi.html"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
-        },
-        {
-          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
-          "link": "https://www.sportesalute.eu#"
+          "titolo": "Avviso e News",
+          "link": "https://www.sport.governo.it/it/bandi-e-avvisi/avviamento-allesercizio-dello-sport-delle-persone-con-disabilita-tramite-luso-di-ausili/avviso-2023/pubblicato-lavviso-per-lacquisto-di-ausili-sportivi-ad-uso-gratuito/",
+          "per_asd": true,
+          "destinatari": [
+            "associazioni sportive",
+            "società sportive",
+            "attività sportiva",
+            "movimento sportivo"
+          ],
+          "contesto": ""
         }
       ]
     }
