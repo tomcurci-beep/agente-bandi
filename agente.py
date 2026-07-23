@@ -1,32 +1,36 @@
 import requests
 from bs4 import BeautifulSoup
 import datetime
+import json
 
 def cerca_bandi_bandiattivi():
-    url = "https://www.bandiattivi.it/bandi/?s=puglia"  # URL di ricerca base
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    }
+    url = "https://www.bandiattivi.it/bandi/?s=puglia"
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    risultati = []
     
     try:
         response = requests.get(url, headers=headers, timeout=30)
-        response.raise_for_status()
-        
         soup = BeautifulSoup(response.text, 'html.parser')
+        bandi = soup.find_all('h2', class_='entry-title') or soup.find_all('article')
         
-        # Estraiamo i titoli dei bandi (questo selettore potrebbe variare)
-        bandi = soup.find_all('article', class_='post') or soup.find_all('h2', class_='entry-title')
-        
-        print(f"[{datetime.datetime.now()}] Trovati {len(bandi)} elementi su BandiAttivi")
-        
-        for bando in bandi[:5]:  # Primi 5 risultati
+        for bando in bandi[:10]:
             titolo = bando.get_text(strip=True)
             link = bando.find('a')['href'] if bando.find('a') else 'N/A'
-            print(f"- {titolo[:80]}... | {link}")
+            risultati.append({"titolo": titolo[:100], "link": link})
             
     except Exception as e:
-        print(f"Errore durante la ricerca: {e}")
+        risultati.append({"errore": str(e)})
+    
+    # Salva su file
+    with open('risultati.json', 'w', encoding='utf-8') as f:
+        json.dump({
+            "data": str(datetime.datetime.now()),
+            "fonte": "BandiAttivi",
+            "totale": len(risultati),
+            "bandi": risultati
+        }, f, ensure_ascii=False, indent=2)
+    
+    print(f"Salvati {len(risultati)} risultati in risultati.json")
 
 if __name__ == "__main__":
     cerca_bandi_bandiattivi()
