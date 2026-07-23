@@ -1,35 +1,35 @@
 {
-  "data": "2026-07-23 13:48:06.177512",
+  "data": "2026-07-23 13:54:18.005371",
+  "filtri": {
+    "solo_asd": true,
+    "solo_aperti": true,
+    "keywords_asd": [
+      "asd",
+      "a.s.d.",
+      "associazione sportiva",
+      "associazioni sportive",
+      "sport",
+      "impianto sportivo",
+      "centro sportivo",
+      "attività sportiva",
+      "promozione sportiva",
+      "fondo sport"
+    ],
+    "keywords_escluse": [
+      "chiuso",
+      "scaduto",
+      "concluso",
+      "terminato",
+      "archiviato",
+      "esito",
+      "aggiudicazione"
+    ]
+  },
   "fonti": [
     {
       "fonte": "CSVNet",
-      "totale": 6,
-      "bandi": [
-        {
-          "titolo": "Segnala un bando",
-          "link": "https://infobandi.csvnet.it/home/segnala-un-bando/"
-        },
-        {
-          "titolo": "Segnala un bando",
-          "link": "https://infobandi.csvnet.it/home/segnala-un-bando/"
-        },
-        {
-          "titolo": "",
-          "link": "https://infobandi.csvnet.it/bando-della-commissione-europea-per-rafforzare-il-ruolo-delle-parti-sociali/"
-        },
-        {
-          "titolo": "",
-          "link": "https://infobandi.csvnet.it/bando-zenit-competenze-digitali-delle-persone-con-disabilita/"
-        },
-        {
-          "titolo": "Bando RIZA per progetti di donne con background migratorio – 2^ ciclo",
-          "link": "https://infobandi.csvnet.it/bando-riza-per-progetti-di-donne-con-background-migratorio-2-ciclo/"
-        },
-        {
-          "titolo": "Avviso “Vita & Opportunità”",
-          "link": "https://infobandi.csvnet.it/avviso-vita-opportunita/"
-        }
-      ]
+      "totale": 0,
+      "bandi": []
     },
     {
       "fonte": "Regione Puglia",
@@ -38,15 +38,19 @@
     },
     {
       "fonte": "Comune di Trani",
-      "totale": 2,
+      "totale": 3,
       "bandi": [
         {
-          "titolo": "Avviso per Assistenza specialistica scolastica, pubblicato un chiarimento",
-          "link": "https://www.comune.trani.bt.it/it/news/avviso-per-assistenza-specialista-scolastica-pubblicato-un-chiarimento"
+          "titolo": "SuediSportello Unico Edilizia digitale",
+          "link": "https://www.suedi.cloud/trani/"
         },
         {
-          "titolo": "Assistenza specialistica scolastica, avviso per la presentazione di domande",
-          "link": "https://www.comune.trani.bt.it/it/news/assistenza-specialistica-scolastica-avviso-per-la-presentazione-di-domande"
+          "titolo": "Impresa in un giornoSportello Unico delle Attività Produttive",
+          "link": "https://www.impresainungiorno.gov.it/web/guest/comune?codCatastale=L328"
+        },
+        {
+          "titolo": "Mobilità e trasporti",
+          "link": "https://www.comune.trani.bt.it//it/page/mobilita-e-trasporti?fromService=1"
         }
       ]
     },
@@ -57,17 +61,99 @@
     },
     {
       "fonte": "Comune di Andria",
-      "totale": 1,
+      "totale": 6,
       "bandi": [
         {
-          "titolo": "Servizio Civile Universale Bando 2025-26: Graduatorie dei Progetti",
-          "link": "https://www.comune.andria.bt.it/it/news/servizio-civile-universale-bando-2025-26-graduatorie-dei-progetti"
+          "titolo": "ORIENTATION DESK - Lo sportello di orientamento al lavoro",
+          "link": "https://www.comune.andria.bt.it/it/news/orientation-desk-lo-sportello-di-orientamento-al-lavoro"
+        },
+        {
+          "titolo": "Sportello telematicoAccedi per compilare le pratiche comodamente da casa e in qualsiasi momento",
+          "link": "https://sportelloamico.comune.andria.bt.it/"
+        },
+        {
+          "titolo": "LINKMate - Sportello del contribuenteImmobili posseduti in catasto, versamenti effettuati, riepiloghi contabili",
+          "link": "https://linkmate.servizienti.it/linkmateWeb/login?c=A285"
+        },
+        {
+          "titolo": "Bici In ComuneIl progetto promuove l’uso della bicicletta negli spostamenti quotidiani casa-scuola, casa-lavoro e casa-impianto sportivo con estension",
+          "link": "https://www.comune.andria.bt.it/it/page/bici-in-comune-progetto-pedala-fra-sport-cibo-e-salute"
+        },
+        {
+          "titolo": "Sportello Unico Edilizia - Prenotazione appuntamentiSportello Unico Edilizia - Prenotazione appuntamenti",
+          "link": "https://andria.publisys.it/sito/home"
+        },
+        {
+          "titolo": "Mobilità e trasporti",
+          "link": "https://www.comune.andria.bt.it//it/page/125814?fromService=1"
         }
       ]
     },
     {
       "fonte": "Sport e Salute",
-      "errore": "HTTPSConnectionPool(host='www.sportesalute.gov.it', port=443): Max retries exceeded with url: /bandi (Caused by NameResolutionError(\"HTTPSConnection(host='www.sportesalute.gov.it', port=443): Failed to resolve 'www.sportesalute.gov.it' ([Errno -2] Name or service not known)\"))"
+      "totale": 121,
+      "bandi": [
+        {
+          "titolo": "Bandi Sport e Salute",
+          "link": "https://www.sportesalute.eu/bandi-e-avvisi.html"
+        },
+        {
+          "titolo": "Bandi Sport e Salute",
+          "link": "https://www.sportesalute.eu/bandi-e-avvisi.html"
+        },
+        {
+          "titolo": "Bandi Sport e Salute",
+          "link": "https://www.sportesalute.eu/bandi-e-avvisi.html"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        },
+        {
+          "titolo": "Scarica l'Elenco delle ASD/SSD/ETS",
+          "link": "https://www.sportesalute.eu#"
+        }
+      ]
     }
   ]
 }
