@@ -1,0 +1,10 @@
+{
+  "data": "2026-07-23 13:43:33.344162",
+  "fonte": "BandiAttivi",
+  "totale": 1,
+  "bandi": [
+    {
+      "errore": "HTTPSConnectionPool(host='www.bandiattivi.it', port=443): Max retries exceeded with url: /bandi/?s=puglia (Caused by NameResolutionError(\"HTTPSConnection(host='www.bandiattivi.it', port=443): Failed to resolve 'www.bandiattivi.it' ([Errno -2] Name or service not known)\"))"
+    }
+  ]
+}
