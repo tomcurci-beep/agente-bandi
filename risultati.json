@@ -1,58 +1,15 @@
 {
-  "data": "2026-07-23 14:02:09.939846",
+  "data": "2026-07-23 14:24:06.374688",
   "filtri": {
     "solo_asd": true,
     "solo_aperti": true,
-    "analisi_destinatari": true
+    "analisi_destinatari": "parziale"
   },
   "fonti": [
     {
       "fonte": "CSVNet",
-      "totale": 24,
+      "totale": 2,
       "bandi": [
-        {
-          "titolo": "Cerca un bando",
-          "link": "https://infobandi.csvnet.it/cerca-bandi/",
-          "per_asd": false,
-          "destinatari": [],
-          "contesto": ""
-        },
-        {
-          "titolo": "Chi siamo",
-          "link": "https://infobandi.csvnet.it/home/chi-siamo/",
-          "per_asd": true,
-          "destinatari": [
-            "ets"
-          ],
-          "contesto": ""
-        },
-        {
-          "titolo": "Cerca un bando",
-          "link": "https://infobandi.csvnet.it/cerca-bandi/",
-          "per_asd": false,
-          "destinatari": [],
-          "contesto": ""
-        },
-        {
-          "titolo": "Chi siamo",
-          "link": "https://infobandi.csvnet.it/home/chi-siamo/",
-          "per_asd": true,
-          "destinatari": [
-            "ets"
-          ],
-          "contesto": ""
-        },
-        {
-          "titolo": "CERCA UN BANDO",
-          "link": "https://infobandi.csvnet.it//bandi-attivi/",
-          "per_asd": true,
-          "destinatari": [
-            "associazioni sportive",
-            "ets",
-            "promozione sociale"
-          ],
-          "contesto": "beneficiario tutti amministrazioni locali amministrazioni nazionali amministrazioni regionali associazioni di promozione sociale associazioni sportive dilettantistiche camere di commercio centri/enti "
-        },
         {
           "titolo": "Bando RIZA per progetti di donne con background migratorio – 2^ ciclo",
           "link": "https://infobandi.csvnet.it/bando-riza-per-progetti-di-donne-con-background-migratorio-2-ciclo/",
@@ -67,28 +24,7 @@
           "destinatari": [
             "ets"
           ],
-          "contesto": "promotori per favorire l’attuazione e la sostenibilità degli interventi. dotazione finanziaria disponibile la dotazione complessiva del bando ammonta a 386.400.000 euro , ripartiti tra le tre linee di"
-        },
-        {
-          "titolo": "Contributi annuali della Banca d’Italia – 2^ scadenza 2026",
-          "link": "https://infobandi.csvnet.it/contributi-annuali-della-banca-ditalia-2-scadenza-2026/",
-          "per_asd": false,
-          "destinatari": [],
-          "contesto": "beneficiari di importi superiori a mille euro (pubblicato annualmente). tag minori cultura giovani inclusione sociale salute anziani ricerca scuole banca d'italia contributi annuali le informazioni co"
-        },
-        {
-          "titolo": "DAPHNE 2026: Prevenire e combattere la violenza di genere e nei confronti dei minori",
-          "link": "https://infobandi.csvnet.it/daphne-2026-prevenire-e-combattere-la-violenza-di-genere-e-nei-confronti-dei-minori/",
-          "per_asd": false,
-          "destinatari": [],
-          "contesto": "destinatari professionisti dei servizi sociali, operatori sanitari e insegnanti, persone che lavorano con bambini e giovani, rappresentanti delle forze dell’ordine, personale dei centri di accoglienza"
-        },
-        {
-          "titolo": "Prevenire gli sprechi alimentari",
-          "link": "https://infobandi.csvnet.it/prevenire-gli-sprechi-alimentari/",
-          "per_asd": false,
-          "destinatari": [],
-          "contesto": "beneficiari sia attraverso partenariati. nel caso dei consorzi, è richiesta la presenza di almeno una piccola o media impresa (pmi). dotazione finanziaria disponibile 4.000.000 euro. entità del contri"
+          "contesto": ""
         }
       ]
     },
@@ -114,21 +50,19 @@
         {
           "titolo": "Bici In ComuneIl progetto promuove l’uso della bicicletta negli spostamenti quotidiani casa-scuola, casa-lavoro e casa-impianto sportivo con estension",
           "link": "https://www.comune.andria.bt.it/it/page/bici-in-comune-progetto-pedala-fra-sport-cibo-e-salute",
-          "per_asd": true,
-          "destinatari": [
-            "impianto sportivo"
-          ],
-          "contesto": ""
+          "per_asd": "da_verificare",
+          "destinatari": [],
+          "contesto": "Analisi destinatari non effettuata (verificare manualmente)"
         }
       ]
     },
     {
       "fonte": "Sport e Salute",
-      "totale": 2,
+      "totale": 155,
       "bandi": [
         {
-          "titolo": "Avviso Sport è Salute",
-          "link": "https://www.sportesalute.eu/avviso-sportesalute.html",
+          "titolo": "La Società",
+          "link": "https://www.sportesalute.eu/societa.html",
           "per_asd": true,
           "destinatari": [
             "asd",
@@ -140,16 +74,186 @@
           "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
         },
         {
-          "titolo": "Avviso e News",
-          "link": "https://www.sport.governo.it/it/bandi-e-avvisi/avviamento-allesercizio-dello-sport-delle-persone-con-disabilita-tramite-luso-di-ausili/avviso-2023/pubblicato-lavviso-per-lacquisto-di-ausili-sportivi-ad-uso-gratuito/",
+          "titolo": "La nostra identità",
+          "link": "https://www.sportesalute.eu/la-nostra-identita.html",
           "per_asd": true,
           "destinatari": [
-            "associazioni sportive",
-            "società sportive",
-            "attività sportiva",
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
             "movimento sportivo"
           ],
-          "contesto": ""
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Tutte le Strutture",
+          "link": "https://www.sportesalute.eu/sportneiterritori.html",
+          "per_asd": true,
+          "destinatari": [
+            "associazione sportiva",
+            "a.s.d.",
+            "asd",
+            "società sportive",
+            "ssd"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Basilicata",
+          "link": "https://www.sportesalute.eu/basilicata.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Emilia-Romagna",
+          "link": "https://www.sportesalute.eu/emilia-romagna.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Friuli-Venezia Giulia",
+          "link": "https://www.sportesalute.eu/friuli-venezia-giulia.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Valle D'Aosta",
+          "link": "https://www.sportesalute.eu/valle-aosta.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Sostenibilità",
+          "link": "https://www.sportesalute.eu/sostenibilita.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Ultime News",
+          "link": "https://www.sportesalute.eu/primo-piano.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "società sportive",
+            "ssd",
+            "ets",
+            "centro sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Gallery foto",
+          "link": "https://www.sportesalute.eu/foto.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "società sportive",
+            "ssd",
+            "ets",
+            "centro sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Gallery video",
+          "link": "https://www.sportesalute.eu/video.html",
+          "per_asd": true,
+          "destinatari": [
+            "a.s.d.",
+            "asd",
+            "società sportive",
+            "ssd",
+            "ets"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Protocolli d'Intesa",
+          "link": "https://www.sportesalute.eu/protocolli-dintesa.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Tutti i Partner",
+          "link": "https://www.sportesalute.eu/partner.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Whistleblowing",
+          "link": "https://www.sportesalute.eu/whistleblowing.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Società trasparente",
+          "link": "https://www.sportesalute.eu/societa-trasparente.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
         }
       ]
     }
