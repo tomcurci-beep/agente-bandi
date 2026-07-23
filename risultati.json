@@ -1,261 +1,454 @@
 {
-  "data": "2026-07-23 14:24:06.374688",
+  "data": "2026-07-23 14:49:22.913577",
   "filtri": {
-    "solo_asd": true,
+    "destinatario": "associazioni sportive",
     "solo_aperti": true,
-    "analisi_destinatari": "parziale"
+    "analisi_destinatari": true
   },
   "fonti": [
     {
-      "fonte": "CSVNet",
-      "totale": 2,
+      "fonte": "CSVNet (filtro: associazioni sportive)",
+      "totale": 10,
       "bandi": [
         {
+          "titolo": "Bando della Commissione europea per rafforzare il ruolo delle parti sociali",
+          "ente": "Commissione Europea  - DG Occupazione, Affari sociali e Inclusione",
+          "scadenza": "SCADENZA:23/07/2026",
+          "link": "https://infobandi.csvnet.it/bando-della-commissione-europea-per-rafforzare-il-ruolo-delle-parti-sociali/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Bando “Voci senza voce”",
+          "ente": "Fondazione Armonia e Rispetto",
+          "scadenza": "SCADENZA:31/07/2026",
+          "link": "https://infobandi.csvnet.it/bando-voci-senza-voce/",
+          "per_asd": true,
+          "destinatari": [
+            "ets",
+            "odv",
+            "promozione sociale",
+            "aps"
+          ],
+          "contesto": ""
+        },
+        {
           "titolo": "Bando RIZA per progetti di donne con background migratorio – 2^ ciclo",
+          "ente": "European Network of Migrant Women",
+          "scadenza": "SCADENZA:31/07/2026",
           "link": "https://infobandi.csvnet.it/bando-riza-per-progetti-di-donne-con-background-migratorio-2-ciclo/",
           "per_asd": false,
           "destinatari": [],
           "contesto": "beneficiarie del finanziamento. modalità e procedure per la presentazione il bando è organizzato in due fasi: fase 1 : compilazione e invio del modulo online entro il 31 luglio 2026 . fase 2 : le orga"
         },
         {
+          "titolo": "Fondazione UEFA per i bambini – bando 2026",
+          "ente": "Fondazione UEFA",
+          "scadenza": "SCADENZA:03/08/2026",
+          "link": "https://infobandi.csvnet.it/fondazione-uefa-per-i-bambini-bando-2026/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Cultural Horizons – prodotti culturali innovativi tra UE e Ucraina",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura tramite Ukrainian Cultural Foundation",
+          "scadenza": "SCADENZA:14/08/2026",
+          "link": "https://infobandi.csvnet.it/cultural-horizons-prodotti-culturali-innovativi-tra-ue-e-ucraina/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Contributi per indagini giornalistiche sull’ambiente – ultima scadenza 2026",
+          "ente": "Journalismfund.eu",
+          "scadenza": "SCADENZA:22/08/2026",
+          "link": "https://infobandi.csvnet.it/contributi-per-indagini-giornalistiche-sullambiente-ultima-scadenza-2026/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
           "titolo": "Avviso “Vita & Opportunità”",
+          "ente": "Ministro per le disabilità",
+          "scadenza": "SCADENZA:29/08/2026",
           "link": "https://infobandi.csvnet.it/avviso-vita-opportunita/",
           "per_asd": true,
           "destinatari": [
             "ets"
           ],
           "contesto": ""
-        }
-      ]
-    },
-    {
-      "fonte": "Regione Puglia",
-      "totale": 0,
-      "bandi": []
-    },
-    {
-      "fonte": "Comune di Trani",
-      "totale": 0,
-      "bandi": []
-    },
-    {
-      "fonte": "Comune di Barletta",
-      "totale": 0,
-      "bandi": []
-    },
-    {
-      "fonte": "Comune di Andria",
-      "totale": 1,
-      "bandi": [
+        },
         {
-          "titolo": "Bici In ComuneIl progetto promuove l’uso della bicicletta negli spostamenti quotidiani casa-scuola, casa-lavoro e casa-impianto sportivo con estension",
-          "link": "https://www.comune.andria.bt.it/it/page/bici-in-comune-progetto-pedala-fra-sport-cibo-e-salute",
-          "per_asd": "da_verificare",
+          "titolo": "Contributi annuali della Banca d’Italia – 2^ scadenza 2026",
+          "ente": "Banca d'Italia",
+          "scadenza": "SCADENZA:31/08/2026",
+          "link": "https://infobandi.csvnet.it/contributi-annuali-della-banca-ditalia-2-scadenza-2026/",
+          "per_asd": false,
           "destinatari": [],
-          "contesto": "Analisi destinatari non effettuata (verificare manualmente)"
-        }
-      ]
-    },
-    {
-      "fonte": "Sport e Salute",
-      "totale": 155,
-      "bandi": [
-        {
-          "titolo": "La Società",
-          "link": "https://www.sportesalute.eu/societa.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+          "contesto": "beneficiari di importi superiori a mille euro (pubblicato annualmente). tag minori cultura giovani inclusione sociale salute anziani ricerca scuole banca d'italia contributi annuali le informazioni co"
         },
         {
-          "titolo": "La nostra identità",
-          "link": "https://www.sportesalute.eu/la-nostra-identita.html",
+          "titolo": "Bando BPER 2026: progetti di sport inclusivo da finanziare in crowdfunding",
+          "ente": "BPER Banca",
+          "scadenza": "SCADENZA:07/09/2026",
+          "link": "https://infobandi.csvnet.it/bando-bper-2026-progetti-di-sport-inclusivo-da-finanziare-in-crowdfunding/",
           "per_asd": true,
           "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Tutte le Strutture",
-          "link": "https://www.sportesalute.eu/sportneiterritori.html",
-          "per_asd": true,
-          "destinatari": [
-            "associazione sportiva",
-            "a.s.d.",
-            "asd",
-            "società sportive",
-            "ssd"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Basilicata",
-          "link": "https://www.sportesalute.eu/basilicata.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Emilia-Romagna",
-          "link": "https://www.sportesalute.eu/emilia-romagna.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Friuli-Venezia Giulia",
-          "link": "https://www.sportesalute.eu/friuli-venezia-giulia.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Valle D'Aosta",
-          "link": "https://www.sportesalute.eu/valle-aosta.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Sostenibilità",
-          "link": "https://www.sportesalute.eu/sostenibilita.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Ultime News",
-          "link": "https://www.sportesalute.eu/primo-piano.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "società sportive",
-            "ssd",
-            "ets",
-            "centro sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Gallery foto",
-          "link": "https://www.sportesalute.eu/foto.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "società sportive",
-            "ssd",
-            "ets",
-            "centro sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Gallery video",
-          "link": "https://www.sportesalute.eu/video.html",
-          "per_asd": true,
-          "destinatari": [
-            "a.s.d.",
+            "associazioni sportive",
             "asd",
             "società sportive",
             "ssd",
             "ets"
           ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+          "contesto": "destinatari. i progetti, meglio se a carattere continuativo, dovranno prevedere modalità partecipative , coinvolgere attivamente i beneficiari e valorizzare il ruolo delle comunità locali. saranno pri"
         },
         {
-          "titolo": "Protocolli d'Intesa",
-          "link": "https://www.sportesalute.eu/protocolli-dintesa.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Tutti i Partner",
-          "link": "https://www.sportesalute.eu/partner.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Whistleblowing",
-          "link": "https://www.sportesalute.eu/whistleblowing.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
-        },
-        {
-          "titolo": "Società trasparente",
-          "link": "https://www.sportesalute.eu/societa-trasparente.html",
-          "per_asd": true,
-          "destinatari": [
-            "asd",
-            "ssd",
-            "ets",
-            "centro sportivo",
-            "movimento sportivo"
-          ],
-          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+          "titolo": "2° edizione Premio GenP – Giovani che partecipano",
+          "ente": "ACRI",
+          "scadenza": "SCADENZA:14/09/2026",
+          "link": "https://infobandi.csvnet.it/2-edizione-premio-genp-giovani-che-partecipano/",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
         }
       ]
+    },
+    {
+      "fonte": "Sport e Salute",
+      "totale": 23,
+      "bandi": [
+        {
+          "titolo": "Avviso Sport è Salute",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/avviso-sportesalute.html",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets",
+            "centro sportivo",
+            "movimento sportivo"
+          ],
+          "contesto": "destinatari voucher per lo sport 2026 - asd/ssd/ets voucher per lo sport 2025 - destinatari voucher per lo sport 2025 - asd/ssd/ets app voucheck sport in comune - regione lazio rigenerazioni il proget"
+        },
+        {
+          "titolo": "Avviso e News",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sport.governo.it/it/bandi-e-avvisi/avviamento-allesercizio-dello-sport-delle-persone-con-disabilita-tramite-luso-di-ausili/avviso-2023/pubblicato-lavviso-per-lacquisto-di-ausili-sportivi-ad-uso-gratuito/",
+          "per_asd": true,
+          "destinatari": [
+            "associazioni sportive",
+            "società sportive",
+            "attività sportiva",
+            "movimento sportivo"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/rigenerazioni/Avviso_Pubblico_RiGenerazioni.pdf",
+          "per_asd": true,
+          "destinatari": [
+            "odv",
+            "aps"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/sport-in-comune/Avviso_Pubblico_Sport_in_Comune.pdf",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/voucher-lazio/Avviso_Pubblico_ASD_SSD_ETS_2026.pdf",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "ets"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l’Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/voucher-molise/Voucher_Molise_Avviso_Pubblico_Beneficiari.pdf",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ets"
+          ],
+          "contesto": "beneficiari</rdf:li>\n            </rdf:alt>\n         </dc:title>\n         <xmp:creatortool>microsoft® word per microsoft 365</xmp:creatortool>\n         <xmp:createdate>2025-12-03t09:06:31+01:00</xmp:c"
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/voucher-molise/Voucher_Molise_Avviso_Pubblico_ASD_SSD.pdf",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd",
+            "odv"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/voucher-lazio/Avviso_Pubblico_Destinatari.pdf",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "destinatari microsoft® word per microsoft 365 2025-04-17t13:48:18+02:00 2025-04-17t14:19:37+02:00 2025-04-17t14:19:37+02:00 uuid:9f9f0ded-a43d-4056-a492-5842573cc541 uuid:8e0b843a-ec17-d143-885e-45558"
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/calabria_e_giovani/Avviso_Pubblico_Giovani_2025.pdf",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/bici_in_comune/Avviso-Pubblico-Bici-in-Comune.pdf",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "aps"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/calabria_e_giovani/Avviso_Pubblico_ASD_SSD_2025.pdf",
+          "per_asd": true,
+          "destinatari": [
+            "asd",
+            "ssd"
+          ],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/voucher-lazio/Avviso_Pubblico.pdf",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/avviso_ses/Avviso-Sport-e-Salute.pdf",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l’Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/sportditutti/carcere/2024/Avviso-Pubblico-SPORT-DI-TUTTI-Carceri2024.pdf",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        },
+        {
+          "titolo": "Scarica l’Avviso Pubblico",
+          "ente": "",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/sportditutti/parchi/2024/Avviso-Pubblico-SPORT-DI-TUTTI-Parchi2024.pdf",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": ""
+        }
+      ]
+    },
+    {
+      "fonte": "Regione Puglia",
+      "totale": 47,
+      "bandi": [
+        {
+          "titolo": "Istituzione",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/istituzione",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Presidente",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/presidente",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Consiglio regionale",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.consiglio.puglia.it",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Organigramma",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/organigramma",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Persone e contatti",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/persone-e-contatti",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Agenzie Regionali Strategiche",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/agenzie-regionali-strategiche",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Enti, fondazioni e società partecipate",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://trasparenza.regione.puglia.it/enti-controllati/societa-partecipate",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Amministrazione trasparente",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://trasparenza.regione.puglia.it",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Elenco curricula",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/elenco-curricula",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Prevenzione della corruzione",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/prevenzione-della-corruzione",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Agricoltura",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/web/agricoltura",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Competitività e innovazione",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/web/competitivita-e-innovazione",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Istituzione e partecipazione",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/web/istituzione-e-partecipazione",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Lavoro e formazione",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/web/lavoro-e-formazione",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        },
+        {
+          "titolo": "Pari opportunità",
+          "ente": "Regione Puglia",
+          "scadenza": "",
+          "link": "https://www.regione.puglia.it/web/pari-opportunita",
+          "per_asd": false,
+          "destinatari": [],
+          "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
+        }
+      ]
+    },
+    {
+      "fonte": "Comune di Trani",
+      "nota": "Verificare manualmente su: https://www.comune.trani.bt.it/",
+      "totale": 0,
+      "bandi": []
+    },
+    {
+      "fonte": "Comune di Barletta",
+      "nota": "Verificare manualmente su: https://www.comune.barletta.bt.it/",
+      "totale": 0,
+      "bandi": []
+    },
+    {
+      "fonte": "Comune di Andria",
+      "nota": "Verificare manualmente su: https://www.comune.andria.bt.it/",
+      "totale": 0,
+      "bandi": []
     }
   ]
 }
