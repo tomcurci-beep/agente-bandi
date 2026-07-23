@@ -9,14 +9,6 @@ HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 KEYWORDS_CHIUSO = ['chiuso', 'scaduto', 'concluso', 'terminato', 'archiviato', 'esito', 'aggiudicazione',
                    'graduatoria', 'avviso di aggiudicazione', 'esito di gara']
 
-KEYWORDS_DESTINATARI_ASD = [
-    'associazione sportiva', 'associazioni sportive', 'a.s.d.', 'asd', 'società sportiva',
-    'società sportive', 'ssd', 's.s.d.', 'ente del terzo settore', 'ets', 'cooperativa sociale',
-    'organizzazione di volontariato', 'odv', 'promozione sociale', 'aps', 'associazione di promozione sociale',
-    'dilettantistico', 'sport dilettantistico', 'impianto sportivo', 'centro sportivo', 'attività sportiva',
-    'fondo sport', 'sport giovanile', 'giovani e sport', 'movimento sportivo'
-]
-
 def is_aperto(titolo):
     testo = titolo.lower()
     for kw in KEYWORDS_CHIUSO:
@@ -24,26 +16,48 @@ def is_aperto(titolo):
             return False
     return True
 
-def analizza_destinatari(url):
+def estrai_info_bando(url):
+    """Estrae informazioni dettagliate dal testo del bando."""
     try:
-        r = requests.get(url, headers=HEADERS, timeout=10)
+        r = requests.get(url, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(r.text, 'html.parser')
-        testo_pagina = soup.get_text(separator=' ', strip=True).lower()
+        testo = soup.get_text(separator='\n', strip=True).lower()
         
-        destinatari_trovati = []
-        for kw in KEYWORDS_DESTINATARI_ASD:
-            if kw in testo_pagina:
-                destinatari_trovati.append(kw)
+        # Cerca dotazione finanziaria
+        dotazione = ""
+        pattern_dotazione = r'(?:dotazione|budget|importo|finanziamento|contributo|somma)[\s\S]{0,100}?(\d[\d\.,]*\s*(?:euro|€|eur))'
+        match = re.search(pattern_dotazione, testo)
+        if match:
+            dotazione = match.group(0)[:150]
         
-        pattern = r'(destinatari|beneficiari|soggetti ammessi)[\s\S]{0,300}'
-        match = re.search(pattern, testo_pagina)
-        contesto = match.group(0)[:200] if match else ''
+        # Cerca documenti necessari
+        documenti = []
+        pattern_docs = r'(documentazione|documenti|allegat|modul|domanda|richiesta|presentazione)[\s\S]{0,200}'
+        match = re.search(pattern_docs, testo)
+        if match:
+            docs_text = match.group(0)
+            for doc in ['domanda', 'modulo', 'allegato', 'documento', 'progetto', 'budget', 'preventivo', 'dichiarazione', 'certificato']:
+                if doc in docs_text:
+                    documenti.append(doc)
         
-        per_asd = len(destinatari_trovati) > 0 or any(kw in contesto for kw in ['asd', 'a.s.d.', 'associazione sportiva'])
+        # Riassunto oggetto (primi 500 caratteri utili)
+        righe = [r for r in testo.split('\n') if len(r) > 50 and len(r) < 500]
+        oggetto = righe[0] if righe else ""
         
-        return {"per_asd": per_asd, "destinatari_trovati": destinatari_trovati, "contesto_destinatari": contesto}
-    except:
-        return {"per_asd": False, "destinatari_trovati": [], "contesto_destinatari": ""}
+        # Destinatari
+        destinatari = []
+        for kw in ['associazione sportiva', 'a.s.d.', 'asd', 'società sportiva', 'ssd', 'ets', 'ente del terzo settore', 'odv', 'aps']:
+            if kw in testo:
+                destinatari.append(kw)
+        
+        return {
+            "dotazione": dotazione,
+            "documenti": list(set(documenti)),
+            "oggetto": oggetto[:300],
+            "destinatari": list(set(destinatari))
+        }
+    except Exception as e:
+        return {"dotazione": "", "documenti": [], "oggetto": "", "destinatari": [], "errore": str(e)}
 
 def cerca_csvnet():
     url = "https://infobandi.csvnet.it/bandi/?destinatario=associazioni-sportive"
@@ -72,7 +86,7 @@ def cerca_csvnet():
             scadenza = ""
             for sibling in heading.find_all_next(['p', 'span', 'div'], limit=5):
                 testo = sibling.get_text(strip=True)
-                if 'scadenza' in testo.lower() or '/' in testo:
+                if 'scadenza' in testo.lower():
                     scadenza = testo
                     break
             
@@ -83,18 +97,19 @@ def cerca_csvnet():
                     ente = testo
                     break
             
-            info = analizza_destinatari(link_completo)
+            info = estrai_info_bando(link_completo)
             bandi.append({
                 "titolo": titolo[:150],
                 "ente": ente[:100],
                 "scadenza": scadenza[:50],
                 "link": link_completo,
-                "per_asd": info["per_asd"],
-                "destinatari": info["destinatari_trovati"][:5],
-                "contesto": info["contesto_destinatari"][:200]
+                "dotazione": info["dotazione"],
+                "documenti": info["documenti"],
+                "oggetto": info["oggetto"],
+                "destinatari": info["destinatari"]
             })
         
-        return {"fonte": "CSVNet (filtro: associazioni sportive)", "totale": len(bandi), "bandi": bandi[:25]}
+        return {"fonte": "CSVNet (filtro: associazioni sportive)", "totale": len(bandi), "bandi": bandi[:15]}
     except Exception as e:
         return {"fonte": "CSVNet", "errore": str(e)}
 
@@ -112,8 +127,7 @@ def cerca_sportesalute():
             
             if any(x in link.lower() for x in ['.html', 'societa', 'identita', 'partner', 'news', 'foto', 'video', 
                                                   'protocolli', 'whistleblowing', 'trasparente', 'sostenibilita',
-                                                  'territori', 'basilicata', 'emilia', 'friuli', 'valle', 'lombardia',
-                                                  'piemonte', 'sicilia', 'toscana', 'veneto', 'puglia', 'lazio']):
+                                                  'territori']):
                 if not any(x in link.lower() for x in ['bando', 'avviso', 'contributo']):
                     continue
             
@@ -125,88 +139,81 @@ def cerca_sportesalute():
                 continue
             visti.add(link_completo)
             
-            if any(x in link.lower() for x in ['bando', 'avviso', 'contributo', 'finanziamento']):
-                info = analizza_destinatari(link_completo)
+            if any(x in link.lower() for x in ['bando', 'avviso', 'contributo']):
+                info = estrai_info_bando(link_completo)
                 bandi.append({
                     "titolo": titolo[:150],
-                    "ente": "",
+                    "ente": "Sport e Salute",
                     "scadenza": "",
                     "link": link_completo,
-                    "per_asd": info["per_asd"],
-                    "destinatari": info["destinatari_trovati"][:5],
-                    "contesto": info["contesto_destinatari"][:200]
+                    "dotazione": info["dotazione"],
+                    "documenti": info["documenti"],
+                    "oggetto": info["oggetto"],
+                    "destinatari": info["destinatari"]
                 })
         
-        return {"fonte": "Sport e Salute", "totale": len(bandi), "bandi": bandi[:15]}
+        return {"fonte": "Sport e Salute", "totale": len(bandi), "bandi": bandi[:10]}
     except Exception as e:
         return {"fonte": "Sport e Salute", "errore": str(e)}
 
-def cerca_regione_puglia():
-    url = "https://www.regione.puglia.it/bandi-e-avvisi"
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=30)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        bandi = []
-        visti = set()
-        
-        for item in soup.find_all('a', href=True):
-            titolo = item.get_text(strip=True)
-            if len(titolo) < 10 or not is_aperto(titolo):
-                continue
-            
-            link = item['href']
-            if link.startswith('/'):
-                link = "https://www.regione.puglia.it" + link
-            elif not link.startswith('http'):
-                continue
-            
-            if link in visti:
-                continue
-            visti.add(link)
-            
-            per_asd = any(kw in titolo.lower() for kw in ['sport', 'asd', 'associazione', 'giovanile', 'impianto'])
-            
-            bandi.append({
-                "titolo": titolo[:150],
-                "ente": "Regione Puglia",
-                "scadenza": "",
-                "link": link,
-                "per_asd": per_asd,
-                "destinatari": [],
-                "contesto": "Filtro basato solo sul titolo (verificare manualmente)"
-            })
-        
-        return {"fonte": "Regione Puglia", "totale": len(bandi), "bandi": bandi[:15]}
-    except Exception as e:
-        return {"fonte": "Regione Puglia", "errore": str(e)}
+def genera_markdown(risultati):
+    md = f"""# 📋 Schede Bandi per ASD — {risultati['data']}
 
-def cerca_comune(url, nome):
-    return {
-        "fonte": nome,
-        "nota": f"Verificare manualmente su: {url}",
-        "totale": 0,
-        "bandi": []
-    }
+## Filtri applicati
+- Destinatario: **Associazioni Sportive**
+- Solo bandi aperti
+
+---
+
+"""
+    for fonte in risultati['fonti']:
+        if 'errore' in fonte:
+            md += f"## ⚠️ {fonte['fonte']}\nErrore: {fonte['errore']}\n\n"
+            continue
+        
+        md += f"## 📌 {fonte['fonte']} ({fonte['totale']} bandi trovati)\n\n"
+        
+        for bando in fonte.get('bandi', []):
+            md += f"""### 🎯 {bando['titolo']}
+
+| Campo | Dettaglio |
+|-------|-----------|
+| **Ente** | {bando.get('ente', 'N/D')} |
+| **Scadenza** | {bando.get('scadenza', 'N/D')} |
+| **Dotazione** | {bando.get('dotazione', 'Da verificare')} |
+| **Destinatari** | {', '.join(bando.get('destinatari', [])) if bando.get('destinatari') else 'Da verificare'} |
+| **Documenti** | {', '.join(bando.get('documenti', [])) if bando.get('documenti') else 'Da verificare'} |
+| **Link** | [Apri bando]({bando['link']}) |
+
+**Oggetto:** {bando.get('oggetto', 'Da estrarre dal link')}
+
+💡 **Scrivi progetto:** Copia il titolo e l'oggetto di questo bando, poi chiedimi "Scrivi un progetto per il bando [titolo]".
+
+---
+
+"""
+    return md
 
 if __name__ == "__main__":
     risultati = {
         "data": str(datetime.datetime.now()),
         "filtri": {
             "destinatario": "associazioni sportive",
-            "solo_aperti": True,
-            "analisi_destinatari": True
+            "solo_aperti": True
         },
         "fonti": [
             cerca_csvnet(),
-            cerca_sportesalute(),
-            cerca_regione_puglia(),
-            cerca_comune("https://www.comune.trani.bt.it/", "Comune di Trani"),
-            cerca_comune("https://www.comune.barletta.bt.it/", "Comune di Barletta"),
-            cerca_comune("https://www.comune.andria.bt.it/", "Comune di Andria")
+            cerca_sportesalute()
         ]
     }
     
+    # Salva JSON
     with open('risultati.json', 'w', encoding='utf-8') as f:
         json.dump(risultati, f, ensure_ascii=False, indent=2)
     
-    print(f"Ricerca completata. Salvati risultati da {len(risultati['fonti'])} fonti.")
+    # Genera e salva Markdown
+    markdown = genera_markdown(risultati)
+    with open('bandi.md', 'w', encoding='utf-8') as f:
+        f.write(markdown)
+    
+    print(f"Ricerca completata. Salvati {len(risultati['fonti'])} fonti.")
