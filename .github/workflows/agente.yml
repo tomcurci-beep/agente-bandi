@@ -1,0 +1,16 @@
+name: Agente Bandi
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Ogni giorno alle 9:00
+  workflow_dispatch:  # Permette anche esecuzione manuale
+
+jobs:
+  cerca:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python agente.py
