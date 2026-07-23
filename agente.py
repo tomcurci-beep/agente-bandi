@@ -55,7 +55,7 @@ def is_per_asd_titolo(titolo):
 
 def analizza_destinatari(url):
     try:
-        r = requests.get(url, headers=HEADERS, timeout=15)
+        r = requests.get(url, headers=HEADERS, timeout=10)
         soup = BeautifulSoup(r.text, 'html.parser')
         testo_pagina = soup.get_text(separator=' ', strip=True).lower()
         
@@ -64,9 +64,9 @@ def analizza_destinatari(url):
             if kw in testo_pagina:
                 destinatari_trovati.append(kw)
         
-        pattern = r'(destinatari|beneficiari|soggetti ammessi)[\s\S]{0,400}'
+        pattern = r'(destinatari|beneficiari|soggetti ammessi)[\s\S]{0,300}'
         match = re.search(pattern, testo_pagina)
-        contesto = match.group(0)[:250] if match else ''
+        contesto = match.group(0)[:200] if match else ''
         
         per_asd = len(destinatari_trovati) > 0 or any(kw in contesto for kw in ['asd', 'a.s.d.', 'associazione sportiva'])
         
@@ -123,11 +123,11 @@ def cerca_regione_puglia():
                 continue
             visti.add(link)
             
-            info = analizza_destinatari(link)
+            # NO analisi destinatari qui (troppo lento su Regione Puglia)
             bandi.append({
                 "titolo": titolo[:150], "link": link,
-                "per_asd": info["per_asd"], "destinatari": info["destinatari_trovati"][:5],
-                "contesto": info["contesto_destinatari"][:200]
+                "per_asd": "da_verificare", "destinatari": [],
+                "contesto": "Analisi destinatari non effettuata (sito JS-heavy)"
             })
         return {"fonte": "Regione Puglia", "totale": len(bandi), "bandi": bandi[:10]}
     except Exception as e:
@@ -140,7 +140,6 @@ def cerca_comune(url, nome):
         bandi = []
         visti = set()
         
-        # Solo pagina principale, niente sottopagine
         for item in soup.find_all('a', href=True):
             titolo = item.get_text(strip=True)
             if len(titolo) < 10 or not is_aperto(titolo):
@@ -156,11 +155,11 @@ def cerca_comune(url, nome):
                 continue
             visti.add(link)
             
-            info = analizza_destinatari(link)
+            # NO analisi destinatari qui (troppo lento su comuni)
             bandi.append({
                 "titolo": titolo[:150], "link": link,
-                "per_asd": info["per_asd"], "destinatari": info["destinatari_trovati"][:5],
-                "contesto": info["contesto_destinatari"][:200]
+                "per_asd": "da_verificare", "destinatari": [],
+                "contesto": "Analisi destinatari non effettuata (verificare manualmente)"
             })
         return {"fonte": nome, "totale": len(bandi), "bandi": bandi[:10]}
     except Exception as e:
@@ -202,7 +201,7 @@ def cerca_sportesalute():
 if __name__ == "__main__":
     risultati = {
         "data": str(datetime.datetime.now()),
-        "filtri": {"solo_asd": True, "solo_aperti": True, "analisi_destinatari": True},
+        "filtri": {"solo_asd": True, "solo_aperti": True, "analisi_destinatari": "parziale"},
         "fonti": [
             cerca_csvnet(),
             cerca_regione_puglia(),
