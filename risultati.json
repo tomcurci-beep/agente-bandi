@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-23 15:07:10.000557",
+  "data": "2026-07-24 15:15:13.105907",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -10,18 +10,6 @@
       "totale": 10,
       "bandi": [
         {
-          "titolo": "Bando della Commissione europea per rafforzare il ruolo delle parti sociali",
-          "ente": "Commissione Europea  - DG Occupazione, Affari sociali e Inclusione",
-          "scadenza": "SCADENZA:23/07/2026",
-          "link": "https://infobandi.csvnet.it/bando-della-commissione-europea-per-rafforzare-il-ruolo-delle-parti-sociali/",
-          "dotazione": "contributo\nla sovvenzione richiesta può essere\ntra 150.000 e 700.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "bando della commissione europea per rafforzare il ruolo delle parti sociali – infobandi csvnet",
-          "destinatari": []
-        },
-        {
           "titolo": "Bando “Voci senza voce”",
           "ente": "Fondazione Armonia e Rispetto",
           "scadenza": "SCADENZA:31/07/2026",
@@ -30,9 +18,9 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "odv",
             "ets",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -115,8 +103,8 @@
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
             "ets",
-            "ssd",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -127,6 +115,18 @@
           "dotazione": "contributo di\n10.000 euro",
           "documenti": [],
           "oggetto": "2° edizione premio genp – giovani che partecipano – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Fondo per la promozione del dialogo: bando 2026",
+          "ente": "Ministero dell'Università e della Ricerca",
+          "scadenza": "SCADENZA:15/09/2026",
+          "link": "https://infobandi.csvnet.it/fondo-per-la-promozione-del-dialogo-bando-2026/",
+          "dotazione": "dotazione finanziaria disponibile\nil fondo dispone di una dotazione complessiva di\n150.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "fondo per la promozione del dialogo: bando 2026 – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -147,8 +147,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ets",
-            "ssd",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -170,8 +170,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -184,8 +184,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ets",
-            "ssd",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -198,8 +198,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ets",
-            "ssd",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -224,9 +224,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
+            "asd",
             "ssd",
-            "asd"
+            "odv"
           ]
         },
         {
