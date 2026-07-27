@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-26 12:44:22.852448",
+  "data": "2026-07-27 16:50:40.348377",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -19,8 +19,8 @@
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
             "odv",
-            "ets",
-            "aps"
+            "aps",
+            "ets"
           ]
         },
         {
@@ -102,10 +102,22 @@
           "documenti": [],
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
-            "asd",
             "ssd",
+            "asd",
             "ets"
           ]
+        },
+        {
+          "titolo": "Contributi filantropici di Autostrade per l’Italia 2026",
+          "ente": "Autostrade per l'Italia",
+          "scadenza": "SCADENZA:13/09/2026",
+          "link": "https://infobandi.csvnet.it/contributi-filantropici-di-autostrade-per-litalia-2026/",
+          "dotazione": "contributo\nil budget finanziabile deve essere\ntra 20.000 e 30.000 euro",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "contributi filantropici di autostrade per l’italia 2026 – infobandi csvnet",
+          "destinatari": []
         },
         {
           "titolo": "2° edizione Premio GenP – Giovani che partecipano",
@@ -115,18 +127,6 @@
           "dotazione": "contributo di\n10.000 euro",
           "documenti": [],
           "oggetto": "2° edizione premio genp – giovani che partecipano – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Fondo per la promozione del dialogo: bando 2026",
-          "ente": "Ministero dell'Università e della Ricerca",
-          "scadenza": "SCADENZA:15/09/2026",
-          "link": "https://infobandi.csvnet.it/fondo-per-la-promozione-del-dialogo-bando-2026/",
-          "dotazione": "dotazione finanziaria disponibile\nil fondo dispone di una dotazione complessiva di\n150.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "fondo per la promozione del dialogo: bando 2026 – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -146,8 +146,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
             "ssd",
+            "asd",
             "ets"
           ]
         },
@@ -183,8 +183,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ssd",
+            "asd",
             "ets"
           ]
         },
@@ -197,8 +197,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ssd",
+            "asd",
             "ets"
           ]
         },
@@ -224,8 +224,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ssd",
+            "asd",
             "odv"
           ]
         },
