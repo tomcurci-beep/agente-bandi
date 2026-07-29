@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-28 16:16:51.943989",
+  "data": "2026-07-29 15:57:03.115300",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -19,8 +19,8 @@
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
             "aps",
-            "odv",
-            "ets"
+            "ets",
+            "odv"
           ]
         },
         {
@@ -102,9 +102,9 @@
           "documenti": [],
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -133,7 +133,7 @@
     },
     {
       "fonte": "Sport e Salute",
-      "totale": 23,
+      "totale": 24,
       "bandi": [
         {
           "titolo": "Avviso Sport è Salute",
@@ -146,9 +146,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -159,6 +159,16 @@
           "dotazione": "",
           "documenti": [],
           "oggetto": "pubblicato l'avviso per l'acquisto di ausili sportivi ad uso gratuito",
+          "destinatari": []
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "Sport e Salute",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/circolo-65/Avviso_Pubblico_Circolo_65.pdf",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "<96e9302387324ee0af0e11ddca73dae3>]/index[710 41]/info 709 0 r/length 92/prev 373826/root 711 0 r/size 751/type/xref/w[1 3 1]>>stream\r",
           "destinatari": []
         },
         {
@@ -183,9 +193,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -197,9 +207,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -224,9 +234,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "asd",
-            "odv"
+            "odv",
+            "ssd"
           ]
         },
         {
@@ -248,19 +258,6 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.04 842.52] /contents 4 0 r/group<",
           "destinatari": []
-        },
-        {
-          "titolo": "Scarica l'Avviso Pubblico",
-          "ente": "Sport e Salute",
-          "scadenza": "",
-          "link": "https://www.sportesalute.eu/images/bici_in_comune/Avviso-Pubblico-Bici-in-Comune.pdf",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
-          "destinatari": [
-            "aps",
-            "asd"
-          ]
         }
       ]
     }
