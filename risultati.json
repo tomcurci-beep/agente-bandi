@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-29 15:57:03.115300",
+  "data": "2026-07-30 15:59:41.269555",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -18,9 +18,9 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
+            "odv",
             "aps",
-            "ets",
-            "odv"
+            "ets"
           ]
         },
         {
@@ -102,9 +102,9 @@
           "documenti": [],
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
+            "ssd",
             "asd",
-            "ets",
-            "ssd"
+            "ets"
           ]
         },
         {
@@ -146,9 +146,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "ssd",
             "asd",
-            "ets",
-            "ssd"
+            "ets"
           ]
         },
         {
@@ -180,8 +180,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -193,9 +193,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "ssd",
             "asd",
-            "ets",
-            "ssd"
+            "ets"
           ]
         },
         {
@@ -207,9 +207,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "ssd",
             "asd",
-            "ets",
-            "ssd"
+            "ets"
           ]
         },
         {
@@ -234,9 +234,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "odv",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
