@@ -1,5 +1,5 @@
 {
-  "data": "2026-07-31 16:16:37.128253",
+  "data": "2026-08-01 12:17:21.040903",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,30 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Bando “Voci senza voce”",
-          "ente": "Fondazione Armonia e Rispetto",
-          "scadenza": "SCADENZA:31/07/2026",
-          "link": "https://infobandi.csvnet.it/bando-voci-senza-voce/",
-          "dotazione": "dotazione finanziaria disponibile\nle risorse messe a disposizione ammontano complessivamente a 60.000 euro",
-          "documenti": [],
-          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
-          "destinatari": [
-            "odv",
-            "ets",
-            "aps"
-          ]
-        },
-        {
-          "titolo": "Bando RIZA per progetti di donne con background migratorio – 2^ ciclo",
-          "ente": "European Network of Migrant Women",
-          "scadenza": "SCADENZA:31/07/2026",
-          "link": "https://infobandi.csvnet.it/bando-riza-per-progetti-di-donne-con-background-migratorio-2-ciclo/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "bando riza per progetti di donne con background migratorio – 2^ ciclo – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Fondazione UEFA per i bambini – bando 2026",
           "ente": "Fondazione UEFA",
@@ -102,8 +78,8 @@
           "documenti": [],
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
-            "ets",
             "asd",
+            "ets",
             "ssd"
           ]
         },
@@ -128,6 +104,30 @@
           "documenti": [],
           "oggetto": "2° edizione premio genp – giovani che partecipano – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Premio Olivetti per l’accessibilità culturale",
+          "ente": "Ministero della Cultura",
+          "scadenza": "SCADENZA:15/09/2026",
+          "link": "https://infobandi.csvnet.it/premio-olivetti-per-laccessibilita-culturale/",
+          "dotazione": "importo complessivo superiore a 50.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "premio olivetti per l’accessibilità culturale – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Fondo per la promozione del dialogo: bando 2026",
+          "ente": "Ministero dell'Università e della Ricerca",
+          "scadenza": "SCADENZA:15/09/2026",
+          "link": "https://infobandi.csvnet.it/fondo-per-la-promozione-del-dialogo-bando-2026/",
+          "dotazione": "dotazione finanziaria disponibile\nil fondo dispone di una dotazione complessiva di\n150.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "fondo per la promozione del dialogo: bando 2026 – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -146,8 +146,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "asd",
+            "ets",
             "ssd"
           ]
         },
@@ -180,8 +180,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -193,8 +193,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
+            "ets",
             "ssd"
           ]
         },
@@ -207,8 +207,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
+            "ets",
             "ssd"
           ]
         },
@@ -221,8 +221,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -234,9 +234,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
             "asd",
-            "ssd"
+            "ssd",
+            "odv"
           ]
         },
         {
