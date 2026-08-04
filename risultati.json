@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-03 17:17:33.859530",
+  "data": "2026-08-04 16:28:12.139008",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,16 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Fondazione UEFA per i bambini – bando 2026",
-          "ente": "Fondazione UEFA",
-          "scadenza": "SCADENZA:03/08/2026",
-          "link": "https://infobandi.csvnet.it/fondazione-uefa-per-i-bambini-bando-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "fondazione uefa per i bambini – bando 2026 – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Cultural Horizons – prodotti culturali innovativi tra UE e Ucraina",
           "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura tramite Ukrainian Cultural Foundation",
@@ -79,8 +69,8 @@
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -106,6 +96,18 @@
           "destinatari": []
         },
         {
+          "titolo": "Fondo per la promozione del dialogo: bando 2026",
+          "ente": "Ministero dell'Università e della Ricerca",
+          "scadenza": "SCADENZA:15/09/2026",
+          "link": "https://infobandi.csvnet.it/fondo-per-la-promozione-del-dialogo-bando-2026/",
+          "dotazione": "dotazione finanziaria disponibile\nil fondo dispone di una dotazione complessiva di\n150.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "fondo per la promozione del dialogo: bando 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Premio Olivetti per l’accessibilità culturale",
           "ente": "Ministero della Cultura",
           "scadenza": "SCADENZA:15/09/2026",
@@ -118,15 +120,15 @@
           "destinatari": []
         },
         {
-          "titolo": "Fondo per la promozione del dialogo: bando 2026",
-          "ente": "Ministero dell'Università e della Ricerca",
-          "scadenza": "SCADENZA:15/09/2026",
-          "link": "https://infobandi.csvnet.it/fondo-per-la-promozione-del-dialogo-bando-2026/",
-          "dotazione": "dotazione finanziaria disponibile\nil fondo dispone di una dotazione complessiva di\n150.000 euro",
+          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza nazionale",
+          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-nazionale/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n1.500.000 euro",
           "documenti": [
             "domanda"
           ],
-          "oggetto": "fondo per la promozione del dialogo: bando 2026 – infobandi csvnet",
+          "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza nazionale – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -147,8 +149,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -180,8 +182,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -194,8 +196,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -208,8 +210,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
