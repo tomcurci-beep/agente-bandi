@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-05 16:12:28.155843",
+  "data": "2026-08-07 11:34:22.045093",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -19,18 +19,6 @@
             "progetto"
           ],
           "oggetto": "cultural horizons – prodotti culturali innovativi tra ue e ucraina – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Contributi per indagini giornalistiche sull’ambiente – ultima scadenza 2026",
-          "ente": "Journalismfund.eu",
-          "scadenza": "SCADENZA:22/08/2026",
-          "link": "https://infobandi.csvnet.it/contributi-per-indagini-giornalistiche-sullambiente-ultima-scadenza-2026/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "contributi per indagini giornalistiche sull’ambiente – ultima scadenza 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -68,9 +56,9 @@
           "documenti": [],
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
+            "ets",
             "ssd",
-            "asd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -130,6 +118,18 @@
           ],
           "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza nazionale – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza territoriale",
+          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-territoriale/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n7.200.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza territoriale – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -148,9 +148,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "ets",
             "ssd",
-            "asd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -160,7 +160,7 @@
           "link": "https://www.sport.governo.it/it/bandi-e-avvisi/avviamento-allesercizio-dello-sport-delle-persone-con-disabilita-tramite-luso-di-ausili/avviso-2023/pubblicato-lavviso-per-lacquisto-di-ausili-sportivi-ad-uso-gratuito/",
           "dotazione": "",
           "documenti": [],
-          "oggetto": "",
+          "oggetto": "pubblicato l'avviso per l'acquisto di ausili sportivi ad uso gratuito",
           "destinatari": []
         },
         {
@@ -195,9 +195,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "ets",
             "ssd",
-            "asd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -209,9 +209,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "ets",
             "ssd",
-            "asd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -223,8 +223,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -236,9 +236,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
+            "odv",
             "ssd",
-            "asd",
-            "odv"
+            "asd"
           ]
         },
         {
