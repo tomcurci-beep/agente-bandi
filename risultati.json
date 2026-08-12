@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-11 11:33:27.939701",
+  "data": "2026-08-12 11:35:19.128092",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -56,9 +56,9 @@
           "documenti": [],
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -148,9 +148,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -160,7 +160,7 @@
           "link": "https://www.sport.governo.it/it/bandi-e-avvisi/avviamento-allesercizio-dello-sport-delle-persone-con-disabilita-tramite-luso-di-ausili/avviso-2023/pubblicato-lavviso-per-lacquisto-di-ausili-sportivi-ad-uso-gratuito/",
           "dotazione": "",
           "documenti": [],
-          "oggetto": "pubblicato l'avviso per l'acquisto di ausili sportivi ad uso gratuito",
+          "oggetto": "",
           "destinatari": []
         },
         {
@@ -182,8 +182,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -195,9 +195,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -209,9 +209,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -223,8 +223,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -237,8 +237,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "odv",
-            "ssd",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
