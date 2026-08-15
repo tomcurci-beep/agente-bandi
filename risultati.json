@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-14 11:32:05.083860",
+  "data": "2026-08-15 09:53:18.906311",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,18 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Cultural Horizons – prodotti culturali innovativi tra UE e Ucraina",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura tramite Ukrainian Cultural Foundation",
-          "scadenza": "SCADENZA:14/08/2026",
-          "link": "https://infobandi.csvnet.it/cultural-horizons-prodotti-culturali-innovativi-tra-ue-e-ucraina/",
-          "dotazione": "dotazione finanziaria disponibile\n400.000 euro",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "cultural horizons – prodotti culturali innovativi tra ue e ucraina – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Avviso “Vita & Opportunità”",
           "ente": "Ministro per le disabilità",
@@ -57,8 +45,8 @@
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
             "ssd",
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -130,6 +118,18 @@
           ],
           "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza territoriale – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: Bando Scuole",
+          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-bando-scuole/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n11.400.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "piano nazionale “cinema e immagini per la scuola”: bando scuole – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -149,8 +149,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ssd",
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -160,7 +160,7 @@
           "link": "https://www.sport.governo.it/it/bandi-e-avvisi/avviamento-allesercizio-dello-sport-delle-persone-con-disabilita-tramite-luso-di-ausili/avviso-2023/pubblicato-lavviso-per-lacquisto-di-ausili-sportivi-ad-uso-gratuito/",
           "dotazione": "",
           "documenti": [],
-          "oggetto": "pubblicato l'avviso per l'acquisto di ausili sportivi ad uso gratuito",
+          "oggetto": "",
           "destinatari": []
         },
         {
@@ -196,8 +196,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -210,8 +210,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -223,8 +223,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
