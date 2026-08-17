@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-16 09:54:34.883268",
+  "data": "2026-08-17 10:17:34.463166",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -160,7 +160,7 @@
           "link": "https://www.sport.governo.it/it/bandi-e-avvisi/avviamento-allesercizio-dello-sport-delle-persone-con-disabilita-tramite-luso-di-ausili/avviso-2023/pubblicato-lavviso-per-lacquisto-di-ausili-sportivi-ad-uso-gratuito/",
           "dotazione": "",
           "documenti": [],
-          "oggetto": "",
+          "oggetto": "pubblicato l'avviso per l'acquisto di ausili sportivi ad uso gratuito",
           "destinatari": []
         },
         {
@@ -182,8 +182,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
