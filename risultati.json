@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-23 09:55:41.441209",
+  "data": "2026-08-24 09:54:24.899484",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -237,8 +237,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "asd",
-            "odv",
-            "ssd"
+            "ssd",
+            "odv"
           ]
         },
         {
