@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-28 20:47:37.489787",
+  "data": "2026-08-29 14:19:35.606782",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,20 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Avviso “Vita & Opportunità”",
-          "ente": "Ministro per le disabilità",
-          "scadenza": "SCADENZA:29/08/2026",
-          "link": "https://infobandi.csvnet.it/avviso-vita-opportunita/",
-          "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando ammonta a\n386.400.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
-          "destinatari": [
-            "ets"
-          ]
-        },
         {
           "titolo": "Contributi annuali della Banca d’Italia – 2^ scadenza 2026",
           "ente": "Banca d'Italia",
@@ -45,8 +31,8 @@
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
             "asd",
-            "ets",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -130,6 +116,16 @@
           ],
           "oggetto": "piano nazionale “cinema e immagini per la scuola”: bando scuole – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Bando “Zenit”: competenze digitali delle persone con disabilità",
+          "ente": "Fondo per la Repubblica Digitale",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/bando-zenit-competenze-digitali-delle-persone-con-disabilita/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "bando “zenit”: competenze digitali delle persone con disabilità – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -149,8 +145,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "asd",
-            "ets",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -182,8 +178,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -196,8 +192,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "asd",
-            "ets",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -210,8 +206,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "asd",
-            "ets",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -237,8 +233,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "asd",
-            "ssd",
-            "odv"
+            "odv",
+            "ssd"
           ]
         },
         {
