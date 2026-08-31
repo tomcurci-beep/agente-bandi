@@ -1,5 +1,5 @@
 {
-  "data": "2026-08-30 14:21:47.129529",
+  "data": "2026-08-31 16:57:59.270074",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,18 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Contributi annuali della Banca d’Italia – 2^ scadenza 2026",
-          "ente": "Banca d'Italia",
-          "scadenza": "SCADENZA:31/08/2026",
-          "link": "https://infobandi.csvnet.it/contributi-annuali-della-banca-ditalia-2-scadenza-2026/",
-          "dotazione": "",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "contributi annuali della banca d’italia – 2^ scadenza 2026 – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Bando BPER 2026: progetti di sport inclusivo da finanziare in crowdfunding",
           "ente": "BPER Banca",
@@ -80,6 +68,22 @@
           ],
           "oggetto": "premio olivetti per l’accessibilità culturale – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Bando “Circolo 65” per promuovere lo sport nella terza età",
+          "ente": "Sport e Salute",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/bando-circolo-65-per-promuovere-lo-sport-nella-terza-eta/",
+          "dotazione": "contributo\nil contributo massimo erogabile per ciascun progetto è pari a\n23.800 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "bando “circolo 65” per promuovere lo sport nella terza età – infobandi csvnet",
+          "destinatari": [
+            "asd",
+            "ets",
+            "ssd"
+          ]
         },
         {
           "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza nazionale",
@@ -178,8 +182,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
