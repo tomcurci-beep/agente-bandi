@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-01 14:04:05.220520",
+  "data": "2026-09-02 13:29:41.838623",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -18,9 +18,9 @@
           "documenti": [],
           "oggetto": "bando bper 2026: progetti di sport inclusivo da finanziare in crowdfunding – infobandi csvnet",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -46,6 +46,18 @@
           "destinatari": []
         },
         {
+          "titolo": "Premio Olivetti per l’accessibilità culturale",
+          "ente": "Ministero della Cultura",
+          "scadenza": "SCADENZA:15/09/2026",
+          "link": "https://infobandi.csvnet.it/premio-olivetti-per-laccessibilita-culturale/",
+          "dotazione": "importo complessivo superiore a 50.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "premio olivetti per l’accessibilità culturale – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Fondo per la promozione del dialogo: bando 2026",
           "ente": "Ministero dell'Università e della Ricerca",
           "scadenza": "SCADENZA:15/09/2026",
@@ -58,15 +70,13 @@
           "destinatari": []
         },
         {
-          "titolo": "Premio Olivetti per l’accessibilità culturale",
-          "ente": "Ministero della Cultura",
-          "scadenza": "SCADENZA:15/09/2026",
-          "link": "https://infobandi.csvnet.it/premio-olivetti-per-laccessibilita-culturale/",
-          "dotazione": "importo complessivo superiore a 50.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "premio olivetti per l’accessibilità culturale – infobandi csvnet",
+          "titolo": "Bando “Zenit”: competenze digitali delle persone con disabilità",
+          "ente": "Fondo per la Repubblica Digitale",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/bando-zenit-competenze-digitali-delle-persone-con-disabilita/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "bando “zenit”: competenze digitali delle persone con disabilità – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -80,21 +90,21 @@
           ],
           "oggetto": "bando “circolo 65” per promuovere lo sport nella terza età – infobandi csvnet",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
-          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza nazionale",
+          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: Bando Scuole",
           "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
           "scadenza": "SCADENZA:18/09/2026",
-          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-nazionale/",
-          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n1.500.000 euro",
+          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-bando-scuole/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n11.400.000 euro",
           "documenti": [
             "domanda"
           ],
-          "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza nazionale – infobandi csvnet",
+          "oggetto": "piano nazionale “cinema e immagini per la scuola”: bando scuole – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -110,25 +120,15 @@
           "destinatari": []
         },
         {
-          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: Bando Scuole",
+          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza nazionale",
           "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
           "scadenza": "SCADENZA:18/09/2026",
-          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-bando-scuole/",
-          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n11.400.000 euro",
+          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-nazionale/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n1.500.000 euro",
           "documenti": [
             "domanda"
           ],
-          "oggetto": "piano nazionale “cinema e immagini per la scuola”: bando scuole – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando “Zenit”: competenze digitali delle persone con disabilità",
-          "ente": "Fondo per la Repubblica Digitale",
-          "scadenza": "SCADENZA:18/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-zenit-competenze-digitali-delle-persone-con-disabilita/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "bando “zenit”: competenze digitali delle persone con disabilità – infobandi csvnet",
+          "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza nazionale – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -148,9 +148,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -182,8 +182,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -195,9 +195,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -209,9 +209,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -223,8 +223,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -236,9 +236,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "odv",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
