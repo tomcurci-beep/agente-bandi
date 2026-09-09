@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-08 13:27:09.659246",
+  "data": "2026-09-09 13:37:27.799350",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -77,8 +77,8 @@
           "oggetto": "bando “circolo 65” per promuovere lo sport nella terza età – infobandi csvnet",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -145,8 +145,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -192,8 +192,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -206,8 +206,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -219,8 +219,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -233,8 +233,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "odv"
+            "odv",
+            "asd"
           ]
         },
         {
