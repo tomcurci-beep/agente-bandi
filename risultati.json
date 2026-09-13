@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-12 12:46:36.349439",
+  "data": "2026-09-13 13:44:39.179719",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -76,9 +76,9 @@
           ],
           "oggetto": "bando “circolo 65” per promuovere lo sport nella terza età – infobandi csvnet",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -144,9 +144,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -191,9 +191,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -205,9 +205,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -219,8 +219,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -232,9 +232,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
             "asd",
-            "ssd"
+            "ssd",
+            "odv"
           ]
         },
         {
