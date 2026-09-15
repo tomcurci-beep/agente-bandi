@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-14 15:49:04.677215",
+  "data": "2026-09-15 14:15:53.540214",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,86 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "2° edizione Premio GenP – Giovani che partecipano",
-          "ente": "ACRI",
-          "scadenza": "SCADENZA:14/09/2026",
-          "link": "https://infobandi.csvnet.it/2-edizione-premio-genp-giovani-che-partecipano/",
-          "dotazione": "contributo di\n10.000 euro",
-          "documenti": [],
-          "oggetto": "2° edizione premio genp – giovani che partecipano – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Premio Olivetti per l’accessibilità culturale",
-          "ente": "Ministero della Cultura",
-          "scadenza": "SCADENZA:15/09/2026",
-          "link": "https://infobandi.csvnet.it/premio-olivetti-per-laccessibilita-culturale/",
-          "dotazione": "importo complessivo superiore a 50.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "premio olivetti per l’accessibilità culturale – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Fondo per la promozione del dialogo: bando 2026",
-          "ente": "Ministero dell'Università e della Ricerca",
-          "scadenza": "SCADENZA:15/09/2026",
-          "link": "https://infobandi.csvnet.it/fondo-per-la-promozione-del-dialogo-bando-2026/",
-          "dotazione": "dotazione finanziaria disponibile\nil fondo dispone di una dotazione complessiva di\n150.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "fondo per la promozione del dialogo: bando 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza nazionale",
-          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
-          "scadenza": "SCADENZA:18/09/2026",
-          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-nazionale/",
-          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n1.500.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza nazionale – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando “Zenit”: competenze digitali delle persone con disabilità",
-          "ente": "Fondo per la Repubblica Digitale",
-          "scadenza": "SCADENZA:18/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-zenit-competenze-digitali-delle-persone-con-disabilita/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "bando “zenit”: competenze digitali delle persone con disabilità – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: Bando Scuole",
-          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
-          "scadenza": "SCADENZA:18/09/2026",
-          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-bando-scuole/",
-          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n11.400.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "piano nazionale “cinema e immagini per la scuola”: bando scuole – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza territoriale",
-          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
-          "scadenza": "SCADENZA:18/09/2026",
-          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-territoriale/",
-          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n7.200.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza territoriale – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Bando “Circolo 65” per promuovere lo sport nella terza età",
           "ente": "Sport e Salute",
@@ -104,6 +24,52 @@
             "asd",
             "ssd"
           ]
+        },
+        {
+          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza nazionale",
+          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-nazionale/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n1.500.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza nazionale – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: progetti di rilevanza territoriale",
+          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-progetti-di-rilevanza-territoriale/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n7.200.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "piano nazionale “cinema e immagini per la scuola”: progetti di rilevanza territoriale – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Piano Nazionale “Cinema e immagini per la scuola”: Bando Scuole",
+          "ente": "Ministero della Cultura e Ministero dell'Istruzione e del Merito",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/piano-nazionale-cinema-e-immagini-per-la-scuola-bando-scuole/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione una dotazione finanziaria complessiva di\n11.400.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "piano nazionale “cinema e immagini per la scuola”: bando scuole – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Bando “Zenit”: competenze digitali delle persone con disabilità",
+          "ente": "Fondo per la Repubblica Digitale",
+          "scadenza": "SCADENZA:18/09/2026",
+          "link": "https://infobandi.csvnet.it/bando-zenit-competenze-digitali-delle-persone-con-disabilita/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "bando “zenit”: competenze digitali delle persone con disabilità – infobandi csvnet",
+          "destinatari": []
         },
         {
           "titolo": "Youth Start-Up Challenge 2026: concorso per giovani imprenditori",
@@ -123,6 +89,40 @@
           "dotazione": "",
           "documenti": [],
           "oggetto": "bando crowdfunding impatto+ 2026 “costruire la pace” – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Iniziative 2026 per mense e dormitori per i poveri",
+          "ente": "Fondazione Intesa Sanpaolo",
+          "scadenza": "SCADENZA:22/09/2026",
+          "link": "https://infobandi.csvnet.it/contributi-per-progetti-di-utilita-sociale-direttrici-di-intervento-2026-copy/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "iniziative 2026 per mense e dormitori per i poveri – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:29/09/2026",
+          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
+          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
+          "documenti": [
+            "allegato"
+          ],
+          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:29/09/2026",
+          "link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -176,8 +176,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
