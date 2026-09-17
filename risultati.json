@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-16 14:08:02.559116",
+  "data": "2026-09-17 14:13:03.923220",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -102,18 +102,6 @@
           "destinatari": []
         },
         {
-          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:29/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
-          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
-          "documenti": [
-            "allegato"
-          ],
-          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
-          "destinatari": []
-        },
-        {
           "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
           "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
           "scadenza": "SCADENZA:29/09/2026",
@@ -123,6 +111,18 @@
             "domanda"
           ],
           "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "KA1 – Accreditamento nei settori della formazione professionale, dell’istruzione scolastica e dell’educazione degli adulti",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:29/09/2026",
+          "link": "https://infobandi.csvnet.it/ka1-accreditamento-nei-settori-della-formazione-professionale-dellistruzione-scolastica-e-delleducazione-degli-adulti-2/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "ka1 – accreditamento nei settori della formazione professionale, dell’istruzione scolastica e dell’educazione degli adulti – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -176,8 +176,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -230,8 +230,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
             "ssd",
+            "odv",
             "asd"
           ]
         },
