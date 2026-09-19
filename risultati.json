@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-18 13:31:27.238976",
+  "data": "2026-09-19 13:00:48.937676",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,22 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Bando “Circolo 65” per promuovere lo sport nella terza età",
-          "ente": "Sport e Salute",
-          "scadenza": "SCADENZA:18/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-circolo-65-per-promuovere-lo-sport-nella-terza-eta/",
-          "dotazione": "contributo\nil contributo massimo erogabile per ciascun progetto è pari a\n23.800 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "bando “circolo 65” per promuovere lo sport nella terza età – infobandi csvnet",
-          "destinatari": [
-            "ssd",
-            "ets",
-            "asd"
-          ]
-        },
         {
           "titolo": "Youth Start-Up Challenge 2026: concorso per giovani imprenditori",
           "ente": "Commissione Europea - DG del Mercato interno, dell’industria, dell’imprenditoria e delle PMI",
@@ -80,6 +64,28 @@
           "destinatari": []
         },
         {
+          "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
+          "ente": "Chiesa Apostolica in Italia",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "richieste di finanziamento all’otto per mille della chiesa apostolica – anno 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
+          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
+          "documenti": [
+            "allegato"
+          ],
+          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Otto per mille a gestione diretta statale – anno 2026",
           "ente": "Presidenza del Consiglio",
           "scadenza": "SCADENZA:30/09/2026",
@@ -115,20 +121,6 @@
             "aps",
             "odv"
           ]
-        },
-        {
-          "titolo": "Bando “Opportunità per me, un futuro migliore. Percorsi di seconda occasione”",
-          "ente": "Impresa sociale Con i Bambini",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-opportunita-per-me-un-futuro-migliore-percorsi-di-seconda-occasione/",
-          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 800.000 euro",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "bando “opportunità per me, un futuro migliore. percorsi di seconda occasione” – infobandi csvnet",
-          "destinatari": [
-            "ente del terzo settore"
-          ]
         }
       ]
     },
@@ -147,9 +139,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "asd",
             "ssd",
-            "ets",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -194,9 +186,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ssd",
-            "ets",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -208,9 +200,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ssd",
-            "ets",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -222,8 +214,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -235,9 +227,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ssd",
-            "odv",
-            "asd"
+            "odv"
           ]
         },
         {
