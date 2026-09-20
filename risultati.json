@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-19 13:00:48.937676",
+  "data": "2026-09-20 13:31:49.589070",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -139,9 +139,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "ets",
             "asd",
-            "ssd",
-            "ets"
+            "ssd"
           ]
         },
         {
@@ -186,9 +186,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "ets",
             "asd",
-            "ssd",
-            "ets"
+            "ssd"
           ]
         },
         {
@@ -200,9 +200,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "ets",
             "asd",
-            "ssd",
-            "ets"
+            "ssd"
           ]
         },
         {
@@ -214,8 +214,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -228,8 +228,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "asd",
-            "ssd",
-            "odv"
+            "odv",
+            "ssd"
           ]
         },
         {
