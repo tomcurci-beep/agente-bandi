@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-20 13:31:49.589070",
+  "data": "2026-09-21 15:48:44.917706",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -10,26 +10,6 @@
       "totale": 10,
       "bandi": [
         {
-          "titolo": "Youth Start-Up Challenge 2026: concorso per giovani imprenditori",
-          "ente": "Commissione Europea - DG del Mercato interno, dell’industria, dell’imprenditoria e delle PMI",
-          "scadenza": "SCADENZA:20/09/2026",
-          "link": "https://infobandi.csvnet.it/youth-start-up-challenge-2026-concorso-per-giovani-imprenditori/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "youth start-up challenge 2026: concorso per giovani imprenditori – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando crowdfunding Impatto+ 2026 “Costruire la Pace”",
-          "ente": "Banca Etica",
-          "scadenza": "SCADENZA:21/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-crowdfunding-impatto-2026-per-progetti-di-educazione-alla-pace/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "bando crowdfunding impatto+ 2026 “costruire la pace” – infobandi csvnet",
-          "destinatari": []
-        },
-        {
           "titolo": "Iniziative 2026 per mense e dormitori per i poveri",
           "ente": "Fondazione Intesa Sanpaolo",
           "scadenza": "SCADENZA:22/09/2026",
@@ -37,18 +17,6 @@
           "dotazione": "",
           "documenti": [],
           "oggetto": "iniziative 2026 per mense e dormitori per i poveri – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:29/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -64,6 +32,18 @@
           "destinatari": []
         },
         {
+          "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:29/09/2026",
+          "link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
           "ente": "Chiesa Apostolica in Italia",
           "scadenza": "SCADENZA:30/09/2026",
@@ -74,37 +54,15 @@
           "destinatari": []
         },
         {
-          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "titolo": "Bando “Opportunità per me, un futuro migliore. Percorsi di seconda occasione”",
+          "ente": "Impresa sociale Con i Bambini",
           "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
-          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
+          "link": "https://infobandi.csvnet.it/bando-opportunita-per-me-un-futuro-migliore-percorsi-di-seconda-occasione/",
+          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 800.000 euro",
           "documenti": [
-            "allegato"
+            "progetto"
           ],
-          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Otto per mille a gestione diretta statale – anno 2026",
-          "ente": "Presidenza del Consiglio",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/otto-per-mille-a-gestione-diretta-statale-anno-2026/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "otto per mille a gestione diretta statale – anno 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando “A scuola per il futuro” – quarta edizione",
-          "ente": "Fondazione CDP",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-a-scuola-per-il-futuro-quarta-edizione/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "bando “a scuola per il futuro” – quarta edizione – infobandi csvnet",
+          "oggetto": "bando “opportunità per me, un futuro migliore. percorsi di seconda occasione” – infobandi csvnet",
           "destinatari": [
             "ente del terzo settore"
           ]
@@ -121,6 +79,52 @@
             "aps",
             "odv"
           ]
+        },
+        {
+          "titolo": "Bando “A scuola per il futuro” – quarta edizione",
+          "ente": "Fondazione CDP",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/bando-a-scuola-per-il-futuro-quarta-edizione/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "bando “a scuola per il futuro” – quarta edizione – infobandi csvnet",
+          "destinatari": [
+            "ente del terzo settore"
+          ]
+        },
+        {
+          "titolo": "Richieste di contributo alla DWF Foundation – 3^ scadenza 2026",
+          "ente": "DWF Foundation",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/richieste-di-contributo-alla-dwf-foundation-3-scadenza-2026/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "richieste di contributo alla dwf foundation – 3^ scadenza 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Otto per mille a gestione diretta statale – anno 2026",
+          "ente": "Presidenza del Consiglio",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-a-gestione-diretta-statale-anno-2026/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "otto per mille a gestione diretta statale – anno 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
+          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
+          "documenti": [
+            "allegato"
+          ],
+          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -139,9 +143,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -186,9 +190,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -200,9 +204,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -214,8 +218,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -228,8 +232,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "asd",
-            "odv",
-            "ssd"
+            "ssd",
+            "odv"
           ]
         },
         {
