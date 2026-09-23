@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-22 13:58:32.209647",
+  "data": "2026-09-23 14:10:15.781825",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -10,13 +10,15 @@
       "totale": 10,
       "bandi": [
         {
-          "titolo": "Iniziative 2026 per mense e dormitori per i poveri",
-          "ente": "Fondazione Intesa Sanpaolo",
-          "scadenza": "SCADENZA:22/09/2026",
-          "link": "https://infobandi.csvnet.it/contributi-per-progetti-di-utilita-sociale-direttrici-di-intervento-2026-copy/",
+          "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:29/09/2026",
+          "link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
           "dotazione": "",
-          "documenti": [],
-          "oggetto": "iniziative 2026 per mense e dormitori per i poveri – infobandi csvnet",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -32,25 +34,25 @@
           "destinatari": []
         },
         {
-          "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:29/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
-          "ente": "Chiesa Apostolica in Italia",
+          "titolo": "Percorsi di innovazione sociale 2026",
+          "ente": "Human Foundation",
           "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
+          "link": "https://infobandi.csvnet.it/percorsi-di-innovazione-sociale-2026/",
           "dotazione": "",
           "documenti": [],
-          "oggetto": "richieste di finanziamento all’otto per mille della chiesa apostolica – anno 2026 – infobandi csvnet",
+          "oggetto": "percorsi di innovazione sociale 2026 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
+        },
+        {
+          "titolo": "Richieste di contributo alla DWF Foundation – 3^ scadenza 2026",
+          "ente": "DWF Foundation",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/richieste-di-contributo-alla-dwf-foundation-3-scadenza-2026/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "richieste di contributo alla dwf foundation – 3^ scadenza 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -76,8 +78,8 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -93,16 +95,6 @@
           ]
         },
         {
-          "titolo": "Richieste di contributo alla DWF Foundation – 3^ scadenza 2026",
-          "ente": "DWF Foundation",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/richieste-di-contributo-alla-dwf-foundation-3-scadenza-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "richieste di contributo alla dwf foundation – 3^ scadenza 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
           "titolo": "Otto per mille a gestione diretta statale – anno 2026",
           "ente": "Presidenza del Consiglio",
           "scadenza": "SCADENZA:30/09/2026",
@@ -112,6 +104,16 @@
             "domanda"
           ],
           "oggetto": "otto per mille a gestione diretta statale – anno 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
+          "ente": "Chiesa Apostolica in Italia",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "richieste di finanziamento all’otto per mille della chiesa apostolica – anno 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -143,9 +145,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "ssd",
             "ets",
-            "asd",
-            "ssd"
+            "asd"
           ]
         },
         {
@@ -172,27 +174,27 @@
           "titolo": "Scarica l'Avviso Pubblico",
           "ente": "Sport e Salute",
           "scadenza": "",
-          "link": "https://www.sportesalute.eu/images/rigenerazioni/Avviso_Pubblico_RiGenerazioni.pdf",
+          "link": "https://www.sportesalute.eu/images/sport-in-comune/Avviso_Pubblico_Sport_in_Comune.pdf",
           "dotazione": "",
           "documenti": [],
-          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
+          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "ssd",
+            "ets",
+            "asd"
           ]
         },
         {
           "titolo": "Scarica l'Avviso Pubblico",
           "ente": "Sport e Salute",
           "scadenza": "",
-          "link": "https://www.sportesalute.eu/images/sport-in-comune/Avviso_Pubblico_Sport_in_Comune.pdf",
+          "link": "https://www.sportesalute.eu/images/rigenerazioni/Avviso_Pubblico_RiGenerazioni.pdf",
           "dotazione": "",
           "documenti": [],
-          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
+          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd",
-            "ssd"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -204,9 +206,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "ssd",
             "ets",
-            "asd",
-            "ssd"
+            "asd"
           ]
         },
         {
@@ -232,8 +234,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "odv",
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
