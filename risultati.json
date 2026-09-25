@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-24 14:08:04.774662",
+  "data": "2026-09-25 14:31:49.153987",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,18 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:29/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "KA1 – Accreditamento nei settori della formazione professionale, dell’istruzione scolastica e dell’educazione degli adulti",
           "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
@@ -34,16 +22,26 @@
           "destinatari": []
         },
         {
-          "titolo": "Percorsi di innovazione sociale 2026",
-          "ente": "Human Foundation",
+          "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:29/09/2026",
+          "link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
+          "ente": "Chiesa Apostolica in Italia",
           "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/percorsi-di-innovazione-sociale-2026/",
+          "link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
           "dotazione": "",
           "documenti": [],
-          "oggetto": "percorsi di innovazione sociale 2026 – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
+          "oggetto": "richieste di finanziamento all’otto per mille della chiesa apostolica – anno 2026 – infobandi csvnet",
+          "destinatari": []
         },
         {
           "titolo": "Richieste di contributo alla DWF Foundation – 3^ scadenza 2026",
@@ -53,6 +51,18 @@
           "dotazione": "",
           "documenti": [],
           "oggetto": "richieste di contributo alla dwf foundation – 3^ scadenza 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Bando per progetti a favore di vittime della tratta – anno 2026",
+          "ente": "Dipartimento per le pari opportunità",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/bando-per-progetti-a-favore-di-vittime-della-tratta-anno-2026/",
+          "dotazione": "",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "bando per progetti a favore di vittime della tratta – anno 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -107,26 +117,16 @@
           "destinatari": []
         },
         {
-          "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
-          "ente": "Chiesa Apostolica in Italia",
+          "titolo": "Percorsi di innovazione sociale 2026",
+          "ente": "Human Foundation",
           "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
+          "link": "https://infobandi.csvnet.it/percorsi-di-innovazione-sociale-2026/",
           "dotazione": "",
           "documenti": [],
-          "oggetto": "richieste di finanziamento all’otto per mille della chiesa apostolica – anno 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
-          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
-          "documenti": [
-            "allegato"
-          ],
-          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
-          "destinatari": []
+          "oggetto": "percorsi di innovazione sociale 2026 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
         }
       ]
     },
@@ -145,9 +145,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -179,9 +179,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -206,9 +206,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -234,8 +234,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "odv",
-            "ssd",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
