@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-28 17:31:35.420171",
+  "data": "2026-09-29 15:36:32.863676",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -34,32 +34,6 @@
           "destinatari": []
         },
         {
-          "titolo": "Bando “Opportunità per me, un futuro migliore. Percorsi di seconda occasione”",
-          "ente": "Impresa sociale Con i Bambini",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-opportunita-per-me-un-futuro-migliore-percorsi-di-seconda-occasione/",
-          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 800.000 euro",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "bando “opportunità per me, un futuro migliore. percorsi di seconda occasione” – infobandi csvnet",
-          "destinatari": [
-            "ente del terzo settore"
-          ]
-        },
-        {
-          "titolo": "Percorsi di innovazione sociale 2026",
-          "ente": "Human Foundation",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/percorsi-di-innovazione-sociale-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "percorsi di innovazione sociale 2026 – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
-        {
           "titolo": "Bando Volontariato 2026",
           "ente": "Fondazione CON IL SUD",
           "scadenza": "SCADENZA:30/09/2026",
@@ -83,6 +57,20 @@
           "destinatari": []
         },
         {
+          "titolo": "Bando “Opportunità per me, un futuro migliore. Percorsi di seconda occasione”",
+          "ente": "Impresa sociale Con i Bambini",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/bando-opportunita-per-me-un-futuro-migliore-percorsi-di-seconda-occasione/",
+          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 800.000 euro",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "bando “opportunità per me, un futuro migliore. percorsi di seconda occasione” – infobandi csvnet",
+          "destinatari": [
+            "ente del terzo settore"
+          ]
+        },
+        {
           "titolo": "Bando “A scuola per il futuro” – quarta edizione",
           "ente": "Fondazione CDP",
           "scadenza": "SCADENZA:30/09/2026",
@@ -95,15 +83,27 @@
           ]
         },
         {
-          "titolo": "Bando per progetti a favore di vittime della tratta – anno 2026",
-          "ente": "Dipartimento per le pari opportunità",
+          "titolo": "Otto per mille a gestione diretta statale – anno 2026",
+          "ente": "Presidenza del Consiglio",
           "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-per-progetti-a-favore-di-vittime-della-tratta-anno-2026/",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-a-gestione-diretta-statale-anno-2026/",
           "dotazione": "",
           "documenti": [
-            "progetto"
+            "domanda"
           ],
-          "oggetto": "bando per progetti a favore di vittime della tratta – anno 2026 – infobandi csvnet",
+          "oggetto": "otto per mille a gestione diretta statale – anno 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:30/09/2026",
+          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
+          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
+          "documenti": [
+            "allegato"
+          ],
+          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -117,15 +117,15 @@
           "destinatari": []
         },
         {
-          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "titolo": "Bando per progetti a favore di vittime della tratta – anno 2026",
+          "ente": "Dipartimento per le pari opportunità",
           "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
-          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
+          "link": "https://infobandi.csvnet.it/bando-per-progetti-a-favore-di-vittime-della-tratta-anno-2026/",
+          "dotazione": "",
           "documenti": [
-            "allegato"
+            "progetto"
           ],
-          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
+          "oggetto": "bando per progetti a favore di vittime della tratta – anno 2026 – infobandi csvnet",
           "destinatari": []
         }
       ]
