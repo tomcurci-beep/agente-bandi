@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-29 15:36:32.863676",
+  "data": "2026-09-30 15:46:40.101138",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,43 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "KA 1 – Accreditamento nel settore della Gioventù",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:29/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-1-accreditamento-nel-settore-della-gioventu/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "ka 1 – accreditamento nel settore della gioventù – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "KA1 – Accreditamento nei settori della formazione professionale, dell’istruzione scolastica e dell’educazione degli adulti",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:29/09/2026",
-          "link": "https://infobandi.csvnet.it/ka1-accreditamento-nei-settori-della-formazione-professionale-dellistruzione-scolastica-e-delleducazione-degli-adulti-2/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "ka1 – accreditamento nei settori della formazione professionale, dell’istruzione scolastica e dell’educazione degli adulti – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando Volontariato 2026",
-          "ente": "Fondazione CON IL SUD",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-volontariato-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
-          "destinatari": [
-            "aps",
-            "odv"
-          ]
-        },
         {
           "titolo": "Richieste di contributo alla DWF Foundation – 3^ scadenza 2026",
           "ente": "DWF Foundation",
@@ -57,17 +20,16 @@
           "destinatari": []
         },
         {
-          "titolo": "Bando “Opportunità per me, un futuro migliore. Percorsi di seconda occasione”",
-          "ente": "Impresa sociale Con i Bambini",
+          "titolo": "Bando Volontariato 2026",
+          "ente": "Fondazione CON IL SUD",
           "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-opportunita-per-me-un-futuro-migliore-percorsi-di-seconda-occasione/",
-          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 800.000 euro",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "bando “opportunità per me, un futuro migliore. percorsi di seconda occasione” – infobandi csvnet",
+          "link": "https://infobandi.csvnet.it/bando-volontariato-2026/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "ente del terzo settore"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -83,15 +45,13 @@
           ]
         },
         {
-          "titolo": "Otto per mille a gestione diretta statale – anno 2026",
-          "ente": "Presidenza del Consiglio",
+          "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
+          "ente": "Chiesa Apostolica in Italia",
           "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/otto-per-mille-a-gestione-diretta-statale-anno-2026/",
+          "link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
           "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "otto per mille a gestione diretta statale – anno 2026 – infobandi csvnet",
+          "documenti": [],
+          "oggetto": "richieste di finanziamento all’otto per mille della chiesa apostolica – anno 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -107,26 +67,62 @@
           "destinatari": []
         },
         {
-          "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
-          "ente": "Chiesa Apostolica in Italia",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "richieste di finanziamento all’otto per mille della chiesa apostolica – anno 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando per progetti a favore di vittime della tratta – anno 2026",
-          "ente": "Dipartimento per le pari opportunità",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-per-progetti-a-favore-di-vittime-della-tratta-anno-2026/",
+          "titolo": "Progetti di solidarietà – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:01/10/2026",
+          "link": "https://infobandi.csvnet.it/progetti-di-solidarieta-2-scadenza-4/",
           "dotazione": "",
           "documenti": [
             "progetto"
           ],
-          "oggetto": "bando per progetti a favore di vittime della tratta – anno 2026 – infobandi csvnet",
+          "oggetto": "progetti di solidarietà – 2^ scadenza – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Progetti di volontariato – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:01/10/2026",
+          "link": "https://infobandi.csvnet.it/progetti-di-volontariato-2-scadenza-5/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "progetti di volontariato – 2^ scadenza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "KA1 Attività di partecipazione dei giovani – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:01/10/2026",
+          "link": "https://infobandi.csvnet.it/ka1-attivita-di-partecipazione-dei-giovani-2-scadenza-5/",
+          "dotazione": "contributo\nsovvenzione ue massima\n60.000 euro",
+          "documenti": [],
+          "oggetto": "ka1 attività di partecipazione dei giovani – 2^ scadenza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "KA1 – Mobilità nel settore della Gioventù – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:01/10/2026",
+          "link": "https://infobandi.csvnet.it/ka1-mobilita-nel-settore-della-gioventu-2-scadenza-4/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "ka1 – mobilità nel settore della gioventù – 2^ scadenza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Interventi di rafforzamento dell’integrazione scolastica di alunni e studenti di Paesi terzi 2027-2028",
+          "ente": "SCADENZA:08/10/2026",
+          "scadenza": "SCADENZA:08/10/2026",
+          "link": "https://infobandi.csvnet.it/interventi-di-rafforzamento-dellintegrazione-scolastica-di-alunni-e-studenti-di-paesi-terzi-2027-2028/",
+          "dotazione": "dotazione finanziaria disponibile\n3.936.721,53 euro",
+          "documenti": [],
+          "oggetto": "interventi di rafforzamento dell’integrazione scolastica di alunni e studenti di paesi terzi 2027-2028 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
         }
       ]
     },
@@ -145,9 +141,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -191,9 +187,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -205,8 +201,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -218,9 +214,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
-            "ssd"
+            "ssd",
+            "ets"
           ]
         },
         {
@@ -245,9 +241,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
             "asd",
-            "ssd"
+            "ssd",
+            "odv"
           ]
         },
         {
