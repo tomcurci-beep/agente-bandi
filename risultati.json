@@ -1,5 +1,5 @@
 {
-  "data": "2026-09-30 15:46:40.101138",
+  "data": "2026-10-01 16:13:28.473784",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,87 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Richieste di contributo alla DWF Foundation – 3^ scadenza 2026",
-          "ente": "DWF Foundation",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/richieste-di-contributo-alla-dwf-foundation-3-scadenza-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "richieste di contributo alla dwf foundation – 3^ scadenza 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando Volontariato 2026",
-          "ente": "Fondazione CON IL SUD",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-volontariato-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
-          "destinatari": [
-            "odv",
-            "aps"
-          ]
-        },
-        {
-          "titolo": "Bando “A scuola per il futuro” – quarta edizione",
-          "ente": "Fondazione CDP",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/bando-a-scuola-per-il-futuro-quarta-edizione/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "bando “a scuola per il futuro” – quarta edizione – infobandi csvnet",
-          "destinatari": [
-            "ente del terzo settore"
-          ]
-        },
-        {
-          "titolo": "Richieste di finanziamento all’otto per mille della Chiesa Apostolica – anno 2026",
-          "ente": "Chiesa Apostolica in Italia",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/richieste-di-finanziamento-allotto-per-mille-della-chiesa-apostolica-anno-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "richieste di finanziamento all’otto per mille della chiesa apostolica – anno 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "KA 2 – Partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:30/09/2026",
-          "link": "https://infobandi.csvnet.it/ka-2-partenariati-di-piccola-scala-nel-settore-della-formazione-professionale-2-scadenza/",
-          "dotazione": "contributo\nla sovvenzione totale è di importo forfettario variabile, va da un\nminimo di 30.000 euro",
-          "documenti": [
-            "allegato"
-          ],
-          "oggetto": "ka 2 – partenariati di piccola scala nel settore della formazione professionale – 2^ scadenza – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Progetti di solidarietà – 2^ scadenza",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:01/10/2026",
-          "link": "https://infobandi.csvnet.it/progetti-di-solidarieta-2-scadenza-4/",
-          "dotazione": "",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "progetti di solidarietà – 2^ scadenza – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Progetti di volontariato – 2^ scadenza",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:01/10/2026",
-          "link": "https://infobandi.csvnet.it/progetti-di-volontariato-2-scadenza-5/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "progetti di volontariato – 2^ scadenza – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "KA1 Attività di partecipazione dei giovani – 2^ scadenza",
           "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
@@ -113,6 +32,30 @@
           "destinatari": []
         },
         {
+          "titolo": "Progetti di volontariato – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:01/10/2026",
+          "link": "https://infobandi.csvnet.it/progetti-di-volontariato-2-scadenza-5/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "progetti di volontariato – 2^ scadenza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Progetti di solidarietà – 2^ scadenza",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:01/10/2026",
+          "link": "https://infobandi.csvnet.it/progetti-di-solidarieta-2-scadenza-4/",
+          "dotazione": "",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "progetti di solidarietà – 2^ scadenza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Interventi di rafforzamento dell’integrazione scolastica di alunni e studenti di Paesi terzi 2027-2028",
           "ente": "SCADENZA:08/10/2026",
           "scadenza": "SCADENZA:08/10/2026",
@@ -122,6 +65,69 @@
           "oggetto": "interventi di rafforzamento dell’integrazione scolastica di alunni e studenti di paesi terzi 2027-2028 – infobandi csvnet",
           "destinatari": [
             "ets"
+          ]
+        },
+        {
+          "titolo": "Prevenire gli sprechi alimentari",
+          "ente": "Commissione Europea – HaDEA Agenzia esecutiva per la salute e il digitale",
+          "scadenza": "SCADENZA:10/10/2026",
+          "link": "https://infobandi.csvnet.it/prevenire-gli-sprechi-alimentari/",
+          "dotazione": "dotazione finanziaria disponibile\n4.000.000 euro",
+          "documenti": [],
+          "oggetto": "prevenire gli sprechi alimentari – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Sostegno a festival, cori e bande musicali – anno 2026",
+          "ente": "Ministero della Cultura",
+          "scadenza": "SCADENZA:15/10/2026",
+          "link": "https://infobandi.csvnet.it/sostegno-a-festival-cori-e-bande-musicali-anno-2025-copy/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "sostegno a festival, cori e bande musicali – anno 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Bando POP 2026 – Piccole Organizzazioni Protagoniste",
+          "ente": "Fondazione Unipolis",
+          "scadenza": "SCADENZA:15/10/2026",
+          "link": "https://infobandi.csvnet.it/bando-pop-2026-piccole-organizzazioni-protagoniste/",
+          "dotazione": "contributo\nla richiesta di contributo deve essere pari a\n50.000 euro",
+          "documenti": [],
+          "oggetto": "bando pop 2026 – piccole organizzazioni protagoniste – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
+        },
+        {
+          "titolo": "Spazi dedicati allo sport negli oratori",
+          "ente": "Dipartimento per lo sport",
+          "scadenza": "SCADENZA:16/10/2026",
+          "link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
+          "destinatari": [
+            "ssd",
+            "asd"
+          ]
+        },
+        {
+          "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
+          "ente": "Impresa sociale Con i Bambini",
+          "scadenza": "SCADENZA:16/10/2026",
+          "link": "https://infobandi.csvnet.it/bando-note-di-comunita-esperienze-musicali-di-quartiere/",
+          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 400.000 euro",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "bando “note di comunità. esperienze musicali di quartiere” – infobandi csvnet",
+          "destinatari": [
+            "ente del terzo settore"
           ]
         }
       ]
@@ -141,9 +147,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
+            "ets",
             "ssd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -187,9 +193,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
+            "ets",
             "ssd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -214,9 +220,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
+            "ets",
             "ssd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -228,8 +234,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -241,9 +247,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
+            "odv",
             "ssd",
-            "odv"
+            "asd"
           ]
         },
         {
