@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-04 14:43:16.214058",
+  "data": "2026-10-05 18:12:44.178631",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,6 +9,18 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
+        {
+          "titolo": "Percorsi di innovazione sociale 2026 – scadenza prorogata",
+          "ente": "Human Foundation",
+          "scadenza": "SCADENZA:07/10/2026",
+          "link": "https://infobandi.csvnet.it/percorsi-di-innovazione-sociale-2026-scadenza-prorogata/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "percorsi di innovazione sociale 2026 – scadenza prorogata – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
+        },
         {
           "titolo": "Interventi di rafforzamento dell’integrazione scolastica di alunni e studenti di Paesi terzi 2027-2028",
           "ente": "SCADENZA:08/10/2026",
@@ -85,6 +97,22 @@
           ]
         },
         {
+          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
+          "ente": "Ministero del Lavoro e delle Politiche Sociali",
+          "scadenza": "SCADENZA:22/10/2026",
+          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
+          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
+          "documenti": [
+            "allegato"
+          ],
+          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
+          "destinatari": [
+            "odv",
+            "aps",
+            "ets"
+          ]
+        },
+        {
           "titolo": "Perform Europe 2026-2028: mobilità internazionale delle arti performative",
           "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
           "scadenza": "SCADENZA:22/10/2026",
@@ -107,36 +135,6 @@
           "destinatari": [
             "ets"
           ]
-        },
-        {
-          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
-          "ente": "Ministero del Lavoro e delle Politiche Sociali",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
-          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
-          "documenti": [
-            "allegato"
-          ],
-          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
-          "destinatari": [
-            "odv",
-            "ets",
-            "aps"
-          ]
-        },
-        {
-          "titolo": "“Progetti oltre gli stereotipi”: sostegno a iniziative per la giustizia di genere",
-          "ente": "AIDOS",
-          "scadenza": "SCADENZA:25/10/2026",
-          "link": "https://infobandi.csvnet.it/progetti-oltre-gli-stereotipi-bando-per-iniziative-per-la-giustizia-di-genere/",
-          "dotazione": "contributo\nsono previste due tipologie di contributo:\ntipologia a\n: da\n20.000 a 30.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "“progetti oltre gli stereotipi”: sostegno a iniziative per la giustizia di genere – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
         }
       ]
     },
@@ -156,8 +154,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ssd",
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -202,8 +200,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -215,8 +213,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -229,8 +227,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -242,8 +240,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -255,9 +253,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
             "ssd",
-            "asd"
+            "asd",
+            "odv"
           ]
         },
         {
