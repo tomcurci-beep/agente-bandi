@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-06 15:47:58.014309",
+  "data": "2026-10-07 16:16:17.958451",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -44,18 +44,6 @@
           "destinatari": []
         },
         {
-          "titolo": "Bando POP 2026 – Piccole Organizzazioni Protagoniste",
-          "ente": "Fondazione Unipolis",
-          "scadenza": "SCADENZA:15/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-pop-2026-piccole-organizzazioni-protagoniste/",
-          "dotazione": "contributo\nla richiesta di contributo deve essere pari a\n50.000 euro",
-          "documenti": [],
-          "oggetto": "bando pop 2026 – piccole organizzazioni protagoniste – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
-        {
           "titolo": "Sostegno a festival, cori e bande musicali – anno 2026",
           "ente": "Ministero della Cultura",
           "scadenza": "SCADENZA:15/10/2026",
@@ -68,17 +56,15 @@
           "destinatari": []
         },
         {
-          "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
-          "ente": "Impresa sociale Con i Bambini",
-          "scadenza": "SCADENZA:16/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-note-di-comunita-esperienze-musicali-di-quartiere/",
-          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 400.000 euro",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "bando “note di comunità. esperienze musicali di quartiere” – infobandi csvnet",
+          "titolo": "Bando POP 2026 – Piccole Organizzazioni Protagoniste",
+          "ente": "Fondazione Unipolis",
+          "scadenza": "SCADENZA:15/10/2026",
+          "link": "https://infobandi.csvnet.it/bando-pop-2026-piccole-organizzazioni-protagoniste/",
+          "dotazione": "contributo\nla richiesta di contributo deve essere pari a\n50.000 euro",
+          "documenti": [],
+          "oggetto": "bando pop 2026 – piccole organizzazioni protagoniste – infobandi csvnet",
           "destinatari": [
-            "ente del terzo settore"
+            "ets"
           ]
         },
         {
@@ -97,6 +83,20 @@
           ]
         },
         {
+          "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
+          "ente": "Impresa sociale Con i Bambini",
+          "scadenza": "SCADENZA:16/10/2026",
+          "link": "https://infobandi.csvnet.it/bando-note-di-comunita-esperienze-musicali-di-quartiere/",
+          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 400.000 euro",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "bando “note di comunità. esperienze musicali di quartiere” – infobandi csvnet",
+          "destinatari": [
+            "ente del terzo settore"
+          ]
+        },
+        {
           "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
           "ente": "Ministero del Lavoro e delle Politiche Sociali",
           "scadenza": "SCADENZA:22/10/2026",
@@ -107,8 +107,8 @@
           ],
           "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
           "destinatari": [
-            "aps",
             "ets",
+            "aps",
             "odv"
           ]
         },
@@ -153,8 +153,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
             "ets",
+            "ssd",
             "asd"
           ]
         },
@@ -199,8 +199,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
+            "ssd",
             "asd"
           ]
         },
@@ -226,8 +226,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
+            "ssd",
             "asd"
           ]
         },
