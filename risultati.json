@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-07 16:16:17.958451",
+  "data": "2026-10-08 16:17:41.883522",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,18 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Percorsi di innovazione sociale 2026 – scadenza prorogata",
-          "ente": "Human Foundation",
-          "scadenza": "SCADENZA:07/10/2026",
-          "link": "https://infobandi.csvnet.it/percorsi-di-innovazione-sociale-2026-scadenza-prorogata/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "percorsi di innovazione sociale 2026 – scadenza prorogata – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
         {
           "titolo": "Interventi di rafforzamento dell’integrazione scolastica di alunni e studenti di Paesi terzi 2027-2028",
           "ente": "SCADENZA:08/10/2026",
@@ -44,18 +32,6 @@
           "destinatari": []
         },
         {
-          "titolo": "Sostegno a festival, cori e bande musicali – anno 2026",
-          "ente": "Ministero della Cultura",
-          "scadenza": "SCADENZA:15/10/2026",
-          "link": "https://infobandi.csvnet.it/sostegno-a-festival-cori-e-bande-musicali-anno-2025-copy/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "sostegno a festival, cori e bande musicali – anno 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
           "titolo": "Bando POP 2026 – Piccole Organizzazioni Protagoniste",
           "ente": "Fondazione Unipolis",
           "scadenza": "SCADENZA:15/10/2026",
@@ -68,19 +44,16 @@
           ]
         },
         {
-          "titolo": "Spazi dedicati allo sport negli oratori",
-          "ente": "Dipartimento per lo sport",
-          "scadenza": "SCADENZA:16/10/2026",
-          "link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
+          "titolo": "Sostegno a festival, cori e bande musicali – anno 2026",
+          "ente": "Ministero della Cultura",
+          "scadenza": "SCADENZA:15/10/2026",
+          "link": "https://infobandi.csvnet.it/sostegno-a-festival-cori-e-bande-musicali-anno-2025-copy/",
           "dotazione": "",
           "documenti": [
             "domanda"
           ],
-          "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
-          "destinatari": [
-            "ssd",
-            "asd"
-          ]
+          "oggetto": "sostegno a festival, cori e bande musicali – anno 2026 – infobandi csvnet",
+          "destinatari": []
         },
         {
           "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
@@ -97,19 +70,32 @@
           ]
         },
         {
-          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
-          "ente": "Ministero del Lavoro e delle Politiche Sociali",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
-          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
+          "titolo": "Spazi dedicati allo sport negli oratori",
+          "ente": "Dipartimento per lo sport",
+          "scadenza": "SCADENZA:16/10/2026",
+          "link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
+          "dotazione": "",
           "documenti": [
-            "allegato"
+            "domanda"
           ],
-          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
+          "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
           "destinatari": [
-            "ets",
-            "aps",
-            "odv"
+            "asd",
+            "ssd"
+          ]
+        },
+        {
+          "titolo": "8 per mille Buddhisti: Bando Umanitario 2026",
+          "ente": "Unione Buddhista Italiana",
+          "scadenza": "SCADENZA:22/10/2026",
+          "link": "https://infobandi.csvnet.it/8-per-mille-buddhisti-bando-umanitario-2026/",
+          "dotazione": "",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "8 per mille buddhisti: bando umanitario 2026 – infobandi csvnet",
+          "destinatari": [
+            "ets"
           ]
         },
         {
@@ -123,15 +109,31 @@
           "destinatari": []
         },
         {
-          "titolo": "8 per mille Buddhisti: Bando Umanitario 2026",
-          "ente": "Unione Buddhista Italiana",
+          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
+          "ente": "Ministero del Lavoro e delle Politiche Sociali",
           "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/8-per-mille-buddhisti-bando-umanitario-2026/",
-          "dotazione": "",
+          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
+          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
           "documenti": [
-            "progetto"
+            "allegato"
           ],
-          "oggetto": "8 per mille buddhisti: bando umanitario 2026 – infobandi csvnet",
+          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
+          "destinatari": [
+            "odv",
+            "ets",
+            "aps"
+          ]
+        },
+        {
+          "titolo": "“Progetti oltre gli stereotipi”: sostegno a iniziative per la giustizia di genere",
+          "ente": "AIDOS",
+          "scadenza": "SCADENZA:25/10/2026",
+          "link": "https://infobandi.csvnet.it/progetti-oltre-gli-stereotipi-bando-per-iniziative-per-la-giustizia-di-genere/",
+          "dotazione": "contributo\nsono previste due tipologie di contributo:\ntipologia a\n: da\n20.000 a 30.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "“progetti oltre gli stereotipi”: sostegno a iniziative per la giustizia di genere – infobandi csvnet",
           "destinatari": [
             "ets"
           ]
@@ -153,9 +155,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -199,9 +201,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -213,8 +215,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -226,9 +228,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -240,8 +242,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -253,9 +255,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
+            "asd",
             "odv",
-            "asd"
+            "ssd"
           ]
         },
         {
