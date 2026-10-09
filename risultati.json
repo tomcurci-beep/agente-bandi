@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-08 16:17:41.883522",
+  "data": "2026-10-09 16:01:38.606440",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,18 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Interventi di rafforzamento dell’integrazione scolastica di alunni e studenti di Paesi terzi 2027-2028",
-          "ente": "SCADENZA:08/10/2026",
-          "scadenza": "SCADENZA:08/10/2026",
-          "link": "https://infobandi.csvnet.it/interventi-di-rafforzamento-dellintegrazione-scolastica-di-alunni-e-studenti-di-paesi-terzi-2027-2028/",
-          "dotazione": "dotazione finanziaria disponibile\n3.936.721,53 euro",
-          "documenti": [],
-          "oggetto": "interventi di rafforzamento dell’integrazione scolastica di alunni e studenti di paesi terzi 2027-2028 – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
         {
           "titolo": "Prevenire gli sprechi alimentari",
           "ente": "Commissione Europea – HaDEA Agenzia esecutiva per la salute e il digitale",
@@ -56,20 +44,6 @@
           "destinatari": []
         },
         {
-          "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
-          "ente": "Impresa sociale Con i Bambini",
-          "scadenza": "SCADENZA:16/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-note-di-comunita-esperienze-musicali-di-quartiere/",
-          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 400.000 euro",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "bando “note di comunità. esperienze musicali di quartiere” – infobandi csvnet",
-          "destinatari": [
-            "ente del terzo settore"
-          ]
-        },
-        {
           "titolo": "Spazi dedicati allo sport negli oratori",
           "ente": "Dipartimento per lo sport",
           "scadenza": "SCADENZA:16/10/2026",
@@ -85,6 +59,30 @@
           ]
         },
         {
+          "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
+          "ente": "Impresa sociale Con i Bambini",
+          "scadenza": "SCADENZA:16/10/2026",
+          "link": "https://infobandi.csvnet.it/bando-note-di-comunita-esperienze-musicali-di-quartiere/",
+          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 400.000 euro",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "bando “note di comunità. esperienze musicali di quartiere” – infobandi csvnet",
+          "destinatari": [
+            "ente del terzo settore"
+          ]
+        },
+        {
+          "titolo": "Perform Europe 2026-2028: mobilità internazionale delle arti performative",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:22/10/2026",
+          "link": "https://infobandi.csvnet.it/perform-europe-2026-2028-mobilita-internazionale-delle-arti-performative/",
+          "dotazione": "dotazione finanziaria disponibile\n1.400.000 euro",
+          "documenti": [],
+          "oggetto": "perform europe 2026-2028: mobilità internazionale delle arti performative – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "8 per mille Buddhisti: Bando Umanitario 2026",
           "ente": "Unione Buddhista Italiana",
           "scadenza": "SCADENZA:22/10/2026",
@@ -97,16 +95,6 @@
           "destinatari": [
             "ets"
           ]
-        },
-        {
-          "titolo": "Perform Europe 2026-2028: mobilità internazionale delle arti performative",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/perform-europe-2026-2028-mobilita-internazionale-delle-arti-performative/",
-          "dotazione": "dotazione finanziaria disponibile\n1.400.000 euro",
-          "documenti": [],
-          "oggetto": "perform europe 2026-2028: mobilità internazionale delle arti performative – infobandi csvnet",
-          "destinatari": []
         },
         {
           "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
@@ -137,6 +125,20 @@
           "destinatari": [
             "ets"
           ]
+        },
+        {
+          "titolo": "Coltiviamo Agricoltura Sociale – edizione 2026",
+          "ente": "Confagricoltura",
+          "scadenza": "SCADENZA:26/10/2026",
+          "link": "https://infobandi.csvnet.it/coltiviamo-agricoltura-sociale-edizione-2026/",
+          "dotazione": "contributo\nil bando nella “sezione ordinaria” prevede\ntre premi di 40.000 euro",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "coltiviamo agricoltura sociale – edizione 2026 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
         }
       ]
     },
@@ -155,8 +157,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
             "ets",
+            "asd",
             "ssd"
           ]
         },
@@ -201,8 +203,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ets",
+            "asd",
             "ssd"
           ]
         },
@@ -228,8 +230,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ets",
+            "asd",
             "ssd"
           ]
         },
@@ -242,8 +244,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -255,8 +257,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "odv",
+            "asd",
             "ssd"
           ]
         },
