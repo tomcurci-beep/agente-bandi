@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-09 16:01:38.606440",
+  "data": "2026-10-10 15:10:06.216480",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -54,8 +54,8 @@
           ],
           "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
           "destinatari": [
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -107,8 +107,8 @@
           ],
           "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
           "destinatari": [
-            "odv",
             "ets",
+            "odv",
             "aps"
           ]
         },
@@ -158,8 +158,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ets",
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -204,8 +204,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ets",
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -231,8 +231,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ets",
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -258,8 +258,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
             "odv",
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
