@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-10 15:10:06.216480",
+  "data": "2026-10-11 15:30:43.671326",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,16 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Prevenire gli sprechi alimentari",
-          "ente": "Commissione Europea – HaDEA Agenzia esecutiva per la salute e il digitale",
-          "scadenza": "SCADENZA:10/10/2026",
-          "link": "https://infobandi.csvnet.it/prevenire-gli-sprechi-alimentari/",
-          "dotazione": "dotazione finanziaria disponibile\n4.000.000 euro",
-          "documenti": [],
-          "oggetto": "prevenire gli sprechi alimentari – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Bando POP 2026 – Piccole Organizzazioni Protagoniste",
           "ente": "Fondazione Unipolis",
@@ -83,6 +73,22 @@
           "destinatari": []
         },
         {
+          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
+          "ente": "Ministero del Lavoro e delle Politiche Sociali",
+          "scadenza": "SCADENZA:22/10/2026",
+          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
+          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
+          "documenti": [
+            "allegato"
+          ],
+          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
+          "destinatari": [
+            "odv",
+            "aps",
+            "ets"
+          ]
+        },
+        {
           "titolo": "8 per mille Buddhisti: Bando Umanitario 2026",
           "ente": "Unione Buddhista Italiana",
           "scadenza": "SCADENZA:22/10/2026",
@@ -94,22 +100,6 @@
           "oggetto": "8 per mille buddhisti: bando umanitario 2026 – infobandi csvnet",
           "destinatari": [
             "ets"
-          ]
-        },
-        {
-          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
-          "ente": "Ministero del Lavoro e delle Politiche Sociali",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
-          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
-          "documenti": [
-            "allegato"
-          ],
-          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
-          "destinatari": [
-            "ets",
-            "odv",
-            "aps"
           ]
         },
         {
@@ -139,6 +129,16 @@
           "destinatari": [
             "ets"
           ]
+        },
+        {
+          "titolo": "EaSI – Dialogo strutturato coinvolgendo persone con esperienza diretta di povertà",
+          "ente": "Commissione Europea – DG Occupazione, Affari sociali e Inclusione",
+          "scadenza": "SCADENZA:29/10/2026",
+          "link": "https://infobandi.csvnet.it/easi-dialogo-strutturato-con-persone-con-esperienza-diretta-di-poverta/",
+          "dotazione": "dotazione finanziaria disponibile\n900.000 euro",
+          "documenti": [],
+          "oggetto": "easi – dialogo strutturato coinvolgendo persone con esperienza diretta di povertà – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -157,9 +157,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "ssd",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -203,9 +203,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "ssd",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -230,9 +230,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "ssd",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -244,8 +244,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -257,8 +257,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
             "ssd",
+            "odv",
             "asd"
           ]
         },
