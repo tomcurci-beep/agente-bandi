@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-13 16:50:06.978294",
+  "data": "2026-10-14 14:25:58.369282",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -34,21 +34,6 @@
           "destinatari": []
         },
         {
-          "titolo": "Spazi dedicati allo sport negli oratori",
-          "ente": "Dipartimento per lo sport",
-          "scadenza": "SCADENZA:16/10/2026",
-          "link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
-          "destinatari": [
-            "asd",
-            "ssd"
-          ]
-        },
-        {
           "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
           "ente": "Impresa sociale Con i Bambini",
           "scadenza": "SCADENZA:16/10/2026",
@@ -63,6 +48,21 @@
           ]
         },
         {
+          "titolo": "Spazi dedicati allo sport negli oratori",
+          "ente": "Dipartimento per lo sport",
+          "scadenza": "SCADENZA:16/10/2026",
+          "link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
+          "destinatari": [
+            "ssd",
+            "asd"
+          ]
+        },
+        {
           "titolo": "Perform Europe 2026-2028: mobilità internazionale delle arti performative",
           "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
           "scadenza": "SCADENZA:22/10/2026",
@@ -71,6 +71,20 @@
           "documenti": [],
           "oggetto": "perform europe 2026-2028: mobilità internazionale delle arti performative – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "8 per mille Buddhisti: Bando Umanitario 2026",
+          "ente": "Unione Buddhista Italiana",
+          "scadenza": "SCADENZA:22/10/2026",
+          "link": "https://infobandi.csvnet.it/8-per-mille-buddhisti-bando-umanitario-2026/",
+          "dotazione": "",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "8 per mille buddhisti: bando umanitario 2026 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
         },
         {
           "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
@@ -86,20 +100,6 @@
             "aps",
             "ets",
             "odv"
-          ]
-        },
-        {
-          "titolo": "8 per mille Buddhisti: Bando Umanitario 2026",
-          "ente": "Unione Buddhista Italiana",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/8-per-mille-buddhisti-bando-umanitario-2026/",
-          "dotazione": "",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "8 per mille buddhisti: bando umanitario 2026 – infobandi csvnet",
-          "destinatari": [
-            "ets"
           ]
         },
         {
@@ -131,13 +131,13 @@
           ]
         },
         {
-          "titolo": "EaSI – Dialogo strutturato coinvolgendo persone con esperienza diretta di povertà",
-          "ente": "Commissione Europea – DG Occupazione, Affari sociali e Inclusione",
+          "titolo": "Per chi crea 2026 – Formazione e promozione culturale nelle scuole",
+          "ente": "Ministero della Cultura e SIAE",
           "scadenza": "SCADENZA:29/10/2026",
-          "link": "https://infobandi.csvnet.it/easi-dialogo-strutturato-con-persone-con-esperienza-diretta-di-poverta/",
-          "dotazione": "dotazione finanziaria disponibile\n900.000 euro",
+          "link": "https://infobandi.csvnet.it/per-chi-crea-2026-formazione-e-promozione-culturale-nelle-scuole/",
+          "dotazione": "",
           "documenti": [],
-          "oggetto": "easi – dialogo strutturato coinvolgendo persone con esperienza diretta di povertà – infobandi csvnet",
+          "oggetto": "per chi crea 2026 – formazione e promozione culturale nelle scuole – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -157,9 +157,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
+            "ssd",
             "ets",
-            "ssd"
+            "asd"
           ]
         },
         {
@@ -203,9 +203,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
+            "ssd",
             "ets",
-            "ssd"
+            "asd"
           ]
         },
         {
@@ -230,9 +230,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
+            "ssd",
             "ets",
-            "ssd"
+            "asd"
           ]
         },
         {
@@ -244,8 +244,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -257,9 +257,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
+            "ssd",
             "asd",
-            "odv",
-            "ssd"
+            "odv"
           ]
         },
         {
