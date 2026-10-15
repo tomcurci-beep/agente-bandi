@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-14 14:25:58.369282",
+  "data": "2026-10-15 14:03:55.758826",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -22,16 +22,19 @@
           ]
         },
         {
-          "titolo": "Sostegno a festival, cori e bande musicali – anno 2026",
-          "ente": "Ministero della Cultura",
-          "scadenza": "SCADENZA:15/10/2026",
-          "link": "https://infobandi.csvnet.it/sostegno-a-festival-cori-e-bande-musicali-anno-2025-copy/",
+          "titolo": "Spazi dedicati allo sport negli oratori",
+          "ente": "Dipartimento per lo sport",
+          "scadenza": "SCADENZA:16/10/2026",
+          "link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
           "dotazione": "",
           "documenti": [
             "domanda"
           ],
-          "oggetto": "sostegno a festival, cori e bande musicali – anno 2026 – infobandi csvnet",
-          "destinatari": []
+          "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
+          "destinatari": [
+            "ssd",
+            "asd"
+          ]
         },
         {
           "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
@@ -48,18 +51,19 @@
           ]
         },
         {
-          "titolo": "Spazi dedicati allo sport negli oratori",
-          "ente": "Dipartimento per lo sport",
-          "scadenza": "SCADENZA:16/10/2026",
-          "link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
-          "dotazione": "",
+          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
+          "ente": "Ministero del Lavoro e delle Politiche Sociali",
+          "scadenza": "SCADENZA:22/10/2026",
+          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
+          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
           "documenti": [
-            "domanda"
+            "allegato"
           ],
-          "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
+          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
           "destinatari": [
-            "ssd",
-            "asd"
+            "odv",
+            "ets",
+            "aps"
           ]
         },
         {
@@ -84,22 +88,6 @@
           "oggetto": "8 per mille buddhisti: bando umanitario 2026 – infobandi csvnet",
           "destinatari": [
             "ets"
-          ]
-        },
-        {
-          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
-          "ente": "Ministero del Lavoro e delle Politiche Sociali",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
-          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
-          "documenti": [
-            "allegato"
-          ],
-          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
-          "destinatari": [
-            "aps",
-            "ets",
-            "odv"
           ]
         },
         {
@@ -139,6 +127,16 @@
           "documenti": [],
           "oggetto": "per chi crea 2026 – formazione e promozione culturale nelle scuole – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "EaSI – Dialogo strutturato coinvolgendo persone con esperienza diretta di povertà",
+          "ente": "Commissione Europea – DG Occupazione, Affari sociali e Inclusione",
+          "scadenza": "SCADENZA:29/10/2026",
+          "link": "https://infobandi.csvnet.it/easi-dialogo-strutturato-con-persone-con-esperienza-diretta-di-poverta/",
+          "dotazione": "dotazione finanziaria disponibile\n900.000 euro",
+          "documenti": [],
+          "oggetto": "easi – dialogo strutturato coinvolgendo persone con esperienza diretta di povertà – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -157,8 +155,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
             "ets",
+            "ssd",
             "asd"
           ]
         },
@@ -203,8 +201,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
+            "ssd",
             "asd"
           ]
         },
@@ -217,8 +215,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -230,8 +228,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
+            "ssd",
             "asd"
           ]
         },
@@ -257,9 +255,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
+            "odv",
             "ssd",
-            "asd",
-            "odv"
+            "asd"
           ]
         },
         {
