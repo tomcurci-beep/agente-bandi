@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-15 14:03:55.758826",
+  "data": "2026-10-16 13:52:08.333543",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -10,45 +10,14 @@
       "totale": 10,
       "bandi": [
         {
-          "titolo": "Bando POP 2026 – Piccole Organizzazioni Protagoniste",
-          "ente": "Fondazione Unipolis",
-          "scadenza": "SCADENZA:15/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-pop-2026-piccole-organizzazioni-protagoniste/",
-          "dotazione": "contributo\nla richiesta di contributo deve essere pari a\n50.000 euro",
+          "titolo": "Perform Europe 2026-2028: mobilità internazionale delle arti performative",
+          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
+          "scadenza": "SCADENZA:22/10/2026",
+          "link": "https://infobandi.csvnet.it/perform-europe-2026-2028-mobilita-internazionale-delle-arti-performative/",
+          "dotazione": "dotazione finanziaria disponibile\n1.400.000 euro",
           "documenti": [],
-          "oggetto": "bando pop 2026 – piccole organizzazioni protagoniste – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
-        {
-          "titolo": "Spazi dedicati allo sport negli oratori",
-          "ente": "Dipartimento per lo sport",
-          "scadenza": "SCADENZA:16/10/2026",
-          "link": "https://infobandi.csvnet.it/spazi-dedicati-allo-sport-negli-oratori/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "spazi dedicati allo sport negli oratori – infobandi csvnet",
-          "destinatari": [
-            "ssd",
-            "asd"
-          ]
-        },
-        {
-          "titolo": "Bando “Note di comunità. Esperienze musicali di quartiere”",
-          "ente": "Impresa sociale Con i Bambini",
-          "scadenza": "SCADENZA:16/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-note-di-comunita-esperienze-musicali-di-quartiere/",
-          "dotazione": "contributo\nil contributo richiesto deve essere compreso\ntra 250.000 e 400.000 euro",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "bando “note di comunità. esperienze musicali di quartiere” – infobandi csvnet",
-          "destinatari": [
-            "ente del terzo settore"
-          ]
+          "oggetto": "perform europe 2026-2028: mobilità internazionale delle arti performative – infobandi csvnet",
+          "destinatari": []
         },
         {
           "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
@@ -65,16 +34,6 @@
             "ets",
             "aps"
           ]
-        },
-        {
-          "titolo": "Perform Europe 2026-2028: mobilità internazionale delle arti performative",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/perform-europe-2026-2028-mobilita-internazionale-delle-arti-performative/",
-          "dotazione": "dotazione finanziaria disponibile\n1.400.000 euro",
-          "documenti": [],
-          "oggetto": "perform europe 2026-2028: mobilità internazionale delle arti performative – infobandi csvnet",
-          "destinatari": []
         },
         {
           "titolo": "8 per mille Buddhisti: Bando Umanitario 2026",
@@ -119,6 +78,28 @@
           ]
         },
         {
+          "titolo": "Per chi crea 2026 – Nuove opere",
+          "ente": "Ministero della Cultura e SIAE",
+          "scadenza": "SCADENZA:29/10/2026",
+          "link": "https://infobandi.csvnet.it/per-chi-crea-2026-nuove-opere/",
+          "dotazione": "",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
+          "destinatari": []
+        },
+        {
+          "titolo": "Per chi crea 2026 – Professionalizzazione degli artisti",
+          "ente": "Ministero della Cultura e SIAE",
+          "scadenza": "SCADENZA:29/10/2026",
+          "link": "https://infobandi.csvnet.it/per-chi-crea-2026-professionalizzazione-degli-artisti/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "per chi crea 2026 – professionalizzazione degli artisti – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Per chi crea 2026 – Formazione e promozione culturale nelle scuole",
           "ente": "Ministero della Cultura e SIAE",
           "scadenza": "SCADENZA:29/10/2026",
@@ -136,6 +117,18 @@
           "dotazione": "dotazione finanziaria disponibile\n900.000 euro",
           "documenti": [],
           "oggetto": "easi – dialogo strutturato coinvolgendo persone con esperienza diretta di povertà – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Premio Mattei per la cooperazione culturale Italia Africa",
+          "ente": "Ministero della Cultura",
+          "scadenza": "SCADENZA:31/10/2026",
+          "link": "https://infobandi.csvnet.it/premio-mattei-per-la-cooperazione-culturale-italia-africa/",
+          "dotazione": "contributo varia in base alla sezione e alla categoria di riferimento:\nper la sezione\n“premio mattei arte”\n:\n80.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "premio mattei per la cooperazione culturale italia africa – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -155,8 +148,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "ssd",
+            "ets",
             "asd"
           ]
         },
@@ -201,8 +194,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "ssd",
+            "ets",
             "asd"
           ]
         },
@@ -228,8 +221,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "ssd",
+            "ets",
             "asd"
           ]
         },
