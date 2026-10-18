@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-17 12:51:22.972796",
+  "data": "2026-10-18 13:07:36.537588",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -31,8 +31,8 @@
           "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
           "destinatari": [
             "aps",
-            "odv",
-            "ets"
+            "ets",
+            "odv"
           ]
         },
         {
@@ -148,9 +148,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -194,9 +194,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -221,9 +221,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "asd",
-            "ets"
+            "ets",
+            "ssd"
           ]
         },
         {
@@ -248,9 +248,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
+            "asd",
             "ssd",
-            "asd"
+            "odv"
           ]
         },
         {
