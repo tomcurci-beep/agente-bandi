@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-20 14:13:05.866080",
+  "data": "2026-10-21 14:25:18.988085",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -135,7 +135,7 @@
     },
     {
       "fonte": "Sport e Salute",
-      "totale": 25,
+      "totale": 26,
       "bandi": [
         {
           "titolo": "Avviso Sport è Salute",
@@ -148,8 +148,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
             "ssd",
+            "asd",
             "ets"
           ]
         },
@@ -161,6 +161,16 @@
           "dotazione": "",
           "documenti": [],
           "oggetto": "pubblicato l'avviso per l'acquisto di ausili sportivi ad uso gratuito",
+          "destinatari": []
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "Sport e Salute",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/fabbrica/Fabbrica_Avviso_Pubblico.pdf",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 24 0 r 28 0 r 30 0 r 31 0 r 34 0 r 36 0 r 38 0 r 41 0 r 44 0 r 46 0 r 50 0 r 51 0 r 54 0 r 56 0 r 58 0 r 59 0 r] /mediabox[ 0 0 595.2 841.8] /contents 4 0 r/group<",
           "destinatari": []
         },
         {
@@ -194,8 +204,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ssd",
+            "asd",
             "ets"
           ]
         },
@@ -208,8 +218,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -221,8 +231,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ssd",
+            "asd",
             "ets"
           ]
         },
@@ -248,20 +258,10 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
+            "odv",
             "ssd",
-            "odv"
+            "asd"
           ]
-        },
-        {
-          "titolo": "Scarica l'Avviso Pubblico",
-          "ente": "Sport e Salute",
-          "scadenza": "",
-          "link": "https://www.sportesalute.eu/images/voucher-lazio/Avviso_Pubblico_Destinatari.pdf",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.04 842.52] /contents 4 0 r/group<",
-          "destinatari": []
         }
       ]
     }
