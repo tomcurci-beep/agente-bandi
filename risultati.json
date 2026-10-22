@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-21 14:25:18.988085",
+  "data": "2026-10-22 14:26:48.581648",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -18,36 +18,6 @@
           "documenti": [],
           "oggetto": "perform europe 2026-2028: mobilità internazionale delle arti performative – infobandi csvnet",
           "destinatari": []
-        },
-        {
-          "titolo": "Avviso 2026 per il finanziamento di progetti di rilevanza nazionale del Terzo settore",
-          "ente": "Ministero del Lavoro e delle Politiche Sociali",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/avviso-2026-per-il-finanziamento-di-progetti-di-rilevanza-nazionale-del-terzo-settore/",
-          "dotazione": "contributo\nil finanziamento ministeriale per ciascuna iniziativa o progetto non può essere inferiore a\n250.000 euro",
-          "documenti": [
-            "allegato"
-          ],
-          "oggetto": "avviso 2026 per il finanziamento di progetti di rilevanza nazionale del terzo settore – infobandi csvnet",
-          "destinatari": [
-            "aps",
-            "odv",
-            "ets"
-          ]
-        },
-        {
-          "titolo": "8 per mille Buddhisti: Bando Umanitario 2026",
-          "ente": "Unione Buddhista Italiana",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/8-per-mille-buddhisti-bando-umanitario-2026/",
-          "dotazione": "",
-          "documenti": [
-            "progetto"
-          ],
-          "oggetto": "8 per mille buddhisti: bando umanitario 2026 – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
         },
         {
           "titolo": "“Progetti oltre gli stereotipi”: sostegno a iniziative per la giustizia di genere",
@@ -120,6 +90,16 @@
           "destinatari": []
         },
         {
+          "titolo": "Bando “Rompi il Silenzio – Artemisia” contro la violenza di genere",
+          "ente": "Fondosviluppo",
+          "scadenza": "SCADENZA:31/10/2026",
+          "link": "https://infobandi.csvnet.it/bando-rompi-il-silenzio-artemisia-contro-la-violenza-di-genere/",
+          "dotazione": "contributo\nè previsto un contributo a fondo perduto fino a un massimo di\n20.000 euro",
+          "documenti": [],
+          "oggetto": "bando “rompi il silenzio – artemisia” contro la violenza di genere – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Premio Mattei per la cooperazione culturale Italia Africa",
           "ente": "Ministero della Cultura",
           "scadenza": "SCADENZA:31/10/2026",
@@ -129,6 +109,16 @@
             "domanda"
           ],
           "oggetto": "premio mattei per la cooperazione culturale italia africa – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Bando nazionale 2026: ricerca e assistenza socio-sanitaria per i bambini",
+          "ente": "Fondazione Just Italia",
+          "scadenza": "SCADENZA:31/10/2026",
+          "link": "https://infobandi.csvnet.it/bando-nazionale-2026-ricerca-e-assistenza-socio-sanitaria-per-i-bambini/",
+          "dotazione": "contributo\nl’erogazione del contributo, il cui importo\nminimo\nè fissato in\n200.000 euro",
+          "documenti": [],
+          "oggetto": "bando nazionale 2026: ricerca e assistenza socio-sanitaria per i bambini – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -149,8 +139,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -205,8 +195,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -232,8 +222,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -245,8 +235,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -258,8 +248,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
             "ssd",
+            "odv",
             "asd"
           ]
         }
