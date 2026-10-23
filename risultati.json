@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-22 14:26:48.581648",
+  "data": "2026-10-23 14:09:25.218750",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,16 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Perform Europe 2026-2028: mobilità internazionale delle arti performative",
-          "ente": "Commissione Europea - DG Educazione, Giovani, Sport e Cultura",
-          "scadenza": "SCADENZA:22/10/2026",
-          "link": "https://infobandi.csvnet.it/perform-europe-2026-2028-mobilita-internazionale-delle-arti-performative/",
-          "dotazione": "dotazione finanziaria disponibile\n1.400.000 euro",
-          "documenti": [],
-          "oggetto": "perform europe 2026-2028: mobilità internazionale delle arti performative – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "“Progetti oltre gli stereotipi”: sostegno a iniziative per la giustizia di genere",
           "ente": "AIDOS",
@@ -90,13 +80,13 @@
           "destinatari": []
         },
         {
-          "titolo": "Bando “Rompi il Silenzio – Artemisia” contro la violenza di genere",
-          "ente": "Fondosviluppo",
+          "titolo": "Rai per il sociale: spazi gratuiti per raccolte fondi e campagne – seconda finestra 2026",
+          "ente": "Rai - Radiotelevisione italiana",
           "scadenza": "SCADENZA:31/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-rompi-il-silenzio-artemisia-contro-la-violenza-di-genere/",
-          "dotazione": "contributo\nè previsto un contributo a fondo perduto fino a un massimo di\n20.000 euro",
+          "link": "https://infobandi.csvnet.it/rai-per-il-sociale-spazi-gratuiti-per-raccolte-fondi-e-campagne/",
+          "dotazione": "",
           "documenti": [],
-          "oggetto": "bando “rompi il silenzio – artemisia” contro la violenza di genere – infobandi csvnet",
+          "oggetto": "rai per il sociale: spazi gratuiti per raccolte fondi e campagne – seconda finestra 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -109,6 +99,16 @@
             "domanda"
           ],
           "oggetto": "premio mattei per la cooperazione culturale italia africa – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Bando “Rompi il Silenzio – Artemisia” contro la violenza di genere",
+          "ente": "Fondosviluppo",
+          "scadenza": "SCADENZA:31/10/2026",
+          "link": "https://infobandi.csvnet.it/bando-rompi-il-silenzio-artemisia-contro-la-violenza-di-genere/",
+          "dotazione": "contributo\nè previsto un contributo a fondo perduto fino a un massimo di\n20.000 euro",
+          "documenti": [],
+          "oggetto": "bando “rompi il silenzio – artemisia” contro la violenza di genere – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -138,9 +138,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "asd",
             "ssd",
-            "ets",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -194,9 +194,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ssd",
-            "ets",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -208,8 +208,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -221,9 +221,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ssd",
-            "ets",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -235,8 +235,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -248,9 +248,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ssd",
-            "odv",
-            "asd"
+            "odv"
           ]
         }
       ]
