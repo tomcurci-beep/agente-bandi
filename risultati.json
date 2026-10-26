@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-25 13:38:40.041071",
+  "data": "2026-10-26 16:00:54.168968",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,20 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "“Progetti oltre gli stereotipi”: sostegno a iniziative per la giustizia di genere",
-          "ente": "AIDOS",
-          "scadenza": "SCADENZA:25/10/2026",
-          "link": "https://infobandi.csvnet.it/progetti-oltre-gli-stereotipi-bando-per-iniziative-per-la-giustizia-di-genere/",
-          "dotazione": "contributo\nsono previste due tipologie di contributo:\ntipologia a\n: da\n20.000 a 30.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "“progetti oltre gli stereotipi”: sostegno a iniziative per la giustizia di genere – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
         {
           "titolo": "Coltiviamo Agricoltura Sociale – edizione 2026",
           "ente": "Confagricoltura",
@@ -80,6 +66,18 @@
           "destinatari": []
         },
         {
+          "titolo": "Premio Mattei per la cooperazione culturale Italia Africa",
+          "ente": "Ministero della Cultura",
+          "scadenza": "SCADENZA:31/10/2026",
+          "link": "https://infobandi.csvnet.it/premio-mattei-per-la-cooperazione-culturale-italia-africa/",
+          "dotazione": "contributo varia in base alla sezione e alla categoria di riferimento:\nper la sezione\n“premio mattei arte”\n:\n80.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "premio mattei per la cooperazione culturale italia africa – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Rai per il sociale: spazi gratuiti per raccolte fondi e campagne – seconda finestra 2026",
           "ente": "Rai - Radiotelevisione italiana",
           "scadenza": "SCADENZA:31/10/2026",
@@ -90,15 +88,13 @@
           "destinatari": []
         },
         {
-          "titolo": "Premio Mattei per la cooperazione culturale Italia Africa",
-          "ente": "Ministero della Cultura",
+          "titolo": "Bando nazionale 2026: ricerca e assistenza socio-sanitaria per i bambini",
+          "ente": "Fondazione Just Italia",
           "scadenza": "SCADENZA:31/10/2026",
-          "link": "https://infobandi.csvnet.it/premio-mattei-per-la-cooperazione-culturale-italia-africa/",
-          "dotazione": "contributo varia in base alla sezione e alla categoria di riferimento:\nper la sezione\n“premio mattei arte”\n:\n80.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "premio mattei per la cooperazione culturale italia africa – infobandi csvnet",
+          "link": "https://infobandi.csvnet.it/bando-nazionale-2026-ricerca-e-assistenza-socio-sanitaria-per-i-bambini/",
+          "dotazione": "contributo\nl’erogazione del contributo, il cui importo\nminimo\nè fissato in\n200.000 euro",
+          "documenti": [],
+          "oggetto": "bando nazionale 2026: ricerca e assistenza socio-sanitaria per i bambini – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -112,13 +108,13 @@
           "destinatari": []
         },
         {
-          "titolo": "Bando nazionale 2026: ricerca e assistenza socio-sanitaria per i bambini",
-          "ente": "Fondazione Just Italia",
-          "scadenza": "SCADENZA:31/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-nazionale-2026-ricerca-e-assistenza-socio-sanitaria-per-i-bambini/",
-          "dotazione": "contributo\nl’erogazione del contributo, il cui importo\nminimo\nè fissato in\n200.000 euro",
+          "titolo": "DAPHNE 2026: Prevenire e combattere la violenza di genere e nei confronti dei minori – scadenza posticipata",
+          "ente": "Commissione Europea - DG Giustizia e Consumatori",
+          "scadenza": "SCADENZA:05/11/2026",
+          "link": "https://infobandi.csvnet.it/daphne-2026-prevenire-e-combattere-la-violenza-di-genere-e-nei-confronti-dei-minori/",
+          "dotazione": "dotazione finanziaria disponibile\n21.000.000 euro",
           "documenti": [],
-          "oggetto": "bando nazionale 2026: ricerca e assistenza socio-sanitaria per i bambini – infobandi csvnet",
+          "oggetto": "daphne 2026: prevenire e combattere la violenza di genere e nei confronti dei minori – scadenza posticipata – infobandi csvnet",
           "destinatari": []
         }
       ]
@@ -138,9 +134,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
+            "asd",
             "ssd",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -194,9 +190,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
+            "asd",
             "ssd",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -208,8 +204,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -221,9 +217,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
+            "asd",
             "ssd",
-            "asd"
+            "ets"
           ]
         },
         {
@@ -235,8 +231,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -248,9 +244,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 596.52 843] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "odv",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         }
       ]
