@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-28 15:51:13.020819",
+  "data": "2026-10-29 15:58:10.854296",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,38 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Per chi crea 2026 – Nuove opere",
-          "ente": "Ministero della Cultura e SIAE",
-          "scadenza": "SCADENZA:29/10/2026",
-          "link": "https://infobandi.csvnet.it/per-chi-crea-2026-nuove-opere/",
-          "dotazione": "",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
-          "destinatari": []
-        },
-        {
-          "titolo": "Per chi crea 2026 – Professionalizzazione degli artisti",
-          "ente": "Ministero della Cultura e SIAE",
-          "scadenza": "SCADENZA:29/10/2026",
-          "link": "https://infobandi.csvnet.it/per-chi-crea-2026-professionalizzazione-degli-artisti/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "per chi crea 2026 – professionalizzazione degli artisti – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Per chi crea 2026 – Formazione e promozione culturale nelle scuole",
-          "ente": "Ministero della Cultura e SIAE",
-          "scadenza": "SCADENZA:29/10/2026",
-          "link": "https://infobandi.csvnet.it/per-chi-crea-2026-formazione-e-promozione-culturale-nelle-scuole/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "per chi crea 2026 – formazione e promozione culturale nelle scuole – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "EaSI – Dialogo strutturato coinvolgendo persone con esperienza diretta di povertà",
           "ente": "Commissione Europea – DG Occupazione, Affari sociali e Inclusione",
@@ -52,15 +20,13 @@
           "destinatari": []
         },
         {
-          "titolo": "Premio Mattei per la cooperazione culturale Italia Africa",
-          "ente": "Ministero della Cultura",
+          "titolo": "Bando “Rompi il Silenzio – Artemisia” contro la violenza di genere",
+          "ente": "Fondosviluppo",
           "scadenza": "SCADENZA:31/10/2026",
-          "link": "https://infobandi.csvnet.it/premio-mattei-per-la-cooperazione-culturale-italia-africa/",
-          "dotazione": "contributo varia in base alla sezione e alla categoria di riferimento:\nper la sezione\n“premio mattei arte”\n:\n80.000 euro",
-          "documenti": [
-            "domanda"
-          ],
-          "oggetto": "premio mattei per la cooperazione culturale italia africa – infobandi csvnet",
+          "link": "https://infobandi.csvnet.it/bando-rompi-il-silenzio-artemisia-contro-la-violenza-di-genere/",
+          "dotazione": "contributo\nè previsto un contributo a fondo perduto fino a un massimo di\n20.000 euro",
+          "documenti": [],
+          "oggetto": "bando “rompi il silenzio – artemisia” contro la violenza di genere – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -74,13 +40,15 @@
           "destinatari": []
         },
         {
-          "titolo": "Bando “Rompi il Silenzio – Artemisia” contro la violenza di genere",
-          "ente": "Fondosviluppo",
+          "titolo": "Premio Mattei per la cooperazione culturale Italia Africa",
+          "ente": "Ministero della Cultura",
           "scadenza": "SCADENZA:31/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-rompi-il-silenzio-artemisia-contro-la-violenza-di-genere/",
-          "dotazione": "contributo\nè previsto un contributo a fondo perduto fino a un massimo di\n20.000 euro",
-          "documenti": [],
-          "oggetto": "bando “rompi il silenzio – artemisia” contro la violenza di genere – infobandi csvnet",
+          "link": "https://infobandi.csvnet.it/premio-mattei-per-la-cooperazione-culturale-italia-africa/",
+          "dotazione": "contributo varia in base alla sezione e alla categoria di riferimento:\nper la sezione\n“premio mattei arte”\n:\n80.000 euro",
+          "documenti": [
+            "domanda"
+          ],
+          "oggetto": "premio mattei per la cooperazione culturale italia africa – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -112,6 +80,42 @@
           "documenti": [],
           "oggetto": "bando intraprendere nel sociale 2026 – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Bando Ganassini 2026: #MaiSoli a sostegno dei caregiver",
+          "ente": "Istituto Ganassini",
+          "scadenza": "SCADENZA:20/11/2026",
+          "link": "https://infobandi.csvnet.it/bando-ganassini-2026-maisoli-a-sostegno-dei-caregiver/",
+          "dotazione": "contributo\nal vincitore sarà assegnato un contributo di\n5.000 euro",
+          "documenti": [
+            "modulo"
+          ],
+          "oggetto": "bando ganassini 2026: #maisoli a sostegno dei caregiver – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Bando CoPower per contrastare la violenza di genere – prima fase",
+          "ente": "Oxfam",
+          "scadenza": "SCADENZA:23/11/2026",
+          "link": "https://infobandi.csvnet.it/bando-copower-per-contrastare-la-violenza-di-genere-prima-fase/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "bando copower per contrastare la violenza di genere – prima fase – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
+        },
+        {
+          "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
+          "ente": "AXA Foundation for Human Progress",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/tackling-violence-against-children-bando-2026-per-italia-e-senegal/",
+          "dotazione": "budget del progetto deve essere compreso\ntra 50.000 e 170.000 euro",
+          "documenti": [],
+          "oggetto": "“tackling violence against children” – bando 2026 per italia e senegal – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
         }
       ]
     },
@@ -131,8 +135,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ets",
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -154,8 +158,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -200,8 +204,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ets",
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -213,8 +217,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -227,8 +231,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ets",
-            "asd",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
