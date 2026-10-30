@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-29 15:58:10.854296",
+  "data": "2026-10-30 15:44:49.342201",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,16 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "EaSI – Dialogo strutturato coinvolgendo persone con esperienza diretta di povertà",
-          "ente": "Commissione Europea – DG Occupazione, Affari sociali e Inclusione",
-          "scadenza": "SCADENZA:29/10/2026",
-          "link": "https://infobandi.csvnet.it/easi-dialogo-strutturato-con-persone-con-esperienza-diretta-di-poverta/",
-          "dotazione": "dotazione finanziaria disponibile\n900.000 euro",
-          "documenti": [],
-          "oggetto": "easi – dialogo strutturato coinvolgendo persone con esperienza diretta di povertà – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Bando “Rompi il Silenzio – Artemisia” contro la violenza di genere",
           "ente": "Fondosviluppo",
@@ -106,16 +96,24 @@
           ]
         },
         {
-          "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
-          "ente": "AXA Foundation for Human Progress",
+          "titolo": "Otto per mille a gestione diretta statale: bando straordinario cultura&scienza",
+          "ente": "Presidenza del Consiglio",
           "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/tackling-violence-against-children-bando-2026-per-italia-e-senegal/",
-          "dotazione": "budget del progetto deve essere compreso\ntra 50.000 e 170.000 euro",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-a-gestione-diretta-statale-bando-straordinario-culturascienza/",
+          "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando è pari a\n19.248.542,96 euro",
           "documenti": [],
-          "oggetto": "“tackling violence against children” – bando 2026 per italia e senegal – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
+          "oggetto": "otto per mille a gestione diretta statale: bando straordinario cultura&scienza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
+          "ente": "Harambee Italia",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
+          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
+          "documenti": [],
+          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -134,9 +132,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -203,9 +201,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -230,9 +228,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -244,8 +242,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         }
       ]
