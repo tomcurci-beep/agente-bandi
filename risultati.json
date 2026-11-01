@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-31 15:13:05.082025",
+  "data": "2026-11-01 15:55:01.388190",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,36 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Rai per il sociale: spazi gratuiti per raccolte fondi e campagne – seconda finestra 2026",
-          "ente": "Rai - Radiotelevisione italiana",
-          "scadenza": "SCADENZA:31/10/2026",
-          "link": "https://infobandi.csvnet.it/rai-per-il-sociale-spazi-gratuiti-per-raccolte-fondi-e-campagne/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "rai per il sociale: spazi gratuiti per raccolte fondi e campagne – seconda finestra 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando “Rompi il Silenzio – Artemisia” contro la violenza di genere",
-          "ente": "Fondosviluppo",
-          "scadenza": "SCADENZA:31/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-rompi-il-silenzio-artemisia-contro-la-violenza-di-genere/",
-          "dotazione": "contributo\nè previsto un contributo a fondo perduto fino a un massimo di\n20.000 euro",
-          "documenti": [],
-          "oggetto": "bando “rompi il silenzio – artemisia” contro la violenza di genere – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Bando nazionale 2026: ricerca e assistenza socio-sanitaria per i bambini",
-          "ente": "Fondazione Just Italia",
-          "scadenza": "SCADENZA:31/10/2026",
-          "link": "https://infobandi.csvnet.it/bando-nazionale-2026-ricerca-e-assistenza-socio-sanitaria-per-i-bambini/",
-          "dotazione": "contributo\nl’erogazione del contributo, il cui importo\nminimo\nè fissato in\n200.000 euro",
-          "documenti": [],
-          "oggetto": "bando nazionale 2026: ricerca e assistenza socio-sanitaria per i bambini – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "DAPHNE 2026: Prevenire e combattere la violenza di genere e nei confronti dei minori – scadenza posticipata",
           "ente": "Commissione Europea - DG Giustizia e Consumatori",
@@ -84,6 +54,16 @@
           ]
         },
         {
+          "titolo": "Otto per mille a gestione diretta statale: bando straordinario cultura&scienza",
+          "ente": "Presidenza del Consiglio",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-a-gestione-diretta-statale-bando-straordinario-culturascienza/",
+          "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando è pari a\n19.248.542,96 euro",
+          "documenti": [],
+          "oggetto": "otto per mille a gestione diretta statale: bando straordinario cultura&scienza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
           "ente": "Harambee Italia",
           "scadenza": "SCADENZA:30/11/2026",
@@ -106,14 +86,38 @@
           ]
         },
         {
-          "titolo": "Otto per mille a gestione diretta statale: bando straordinario cultura&scienza",
-          "ente": "Presidenza del Consiglio",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/otto-per-mille-a-gestione-diretta-statale-bando-straordinario-culturascienza/",
-          "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando è pari a\n19.248.542,96 euro",
+          "titolo": "International Trans Fund – contributi 2026",
+          "ente": "International Trans Fund",
+          "scadenza": "SCADENZA:01/12/2026",
+          "link": "https://infobandi.csvnet.it/international-trans-fund-contributi-2026/",
+          "dotazione": "",
           "documenti": [],
-          "oggetto": "otto per mille a gestione diretta statale: bando straordinario cultura&scienza – infobandi csvnet",
+          "oggetto": "international trans fund – contributi 2026 – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Nave Italia – Preselezione dei progetti da realizzarsi nel 2027",
+          "ente": "Nave Italia",
+          "scadenza": "SCADENZA:07/12/2026",
+          "link": "https://infobandi.csvnet.it/nave-italia-preselezione-dei-progetti-da-realizzarsi-nel-2027/",
+          "dotazione": "contributo\nil costo di ogni progetto è di 1.800 euro",
+          "documenti": [],
+          "oggetto": "nave italia – preselezione dei progetti da realizzarsi nel 2027 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
+        },
+        {
+          "titolo": "Iniziativa Beni confiscati – Regolamento 2026",
+          "ente": "Fondazione CON IL SUD",
+          "scadenza": "SCADENZA:10/12/2026",
+          "link": "https://infobandi.csvnet.it/iniziativa-beni-confiscati-regolamento-2026/",
+          "dotazione": "contributo\nil contributo non può essere superiore a\n400.000 euro",
+          "documenti": [],
+          "oggetto": "iniziativa beni confiscati – regolamento 2026 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
         }
       ]
     },
@@ -132,9 +136,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
+            "ets",
             "ssd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -156,8 +160,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -201,9 +205,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
+            "ets",
             "ssd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -215,8 +219,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -228,9 +232,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
+            "ets",
             "ssd",
-            "ets"
+            "asd"
           ]
         },
         {
@@ -242,8 +246,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         }
       ]
