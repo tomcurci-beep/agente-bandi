@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-01 15:55:01.388190",
+  "data": "2026-11-02 19:22:08.515047",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -17,6 +17,18 @@
           "dotazione": "dotazione finanziaria disponibile\n21.000.000 euro",
           "documenti": [],
           "oggetto": "daphne 2026: prevenire e combattere la violenza di genere e nei confronti dei minori – scadenza posticipata – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Bando Leggimi 0-6 2026",
+          "ente": "Cepell",
+          "scadenza": "SCADENZA:10/11/2026",
+          "link": "https://infobandi.csvnet.it/bando-leggimi-0-6-2026/",
+          "dotazione": "dotazione finanziaria disponibile\nil bando mette a disposizione un ammontare complessivo di\n857.375 euro",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": []
         },
         {
@@ -54,6 +66,20 @@
           ]
         },
         {
+          "titolo": "Bando “Lo Sport è vita”",
+          "ente": "Sport e Salute",
+          "scadenza": "SCADENZA:28/11/2026",
+          "link": "https://infobandi.csvnet.it/bando-lo-sport-e-vita/",
+          "dotazione": "contributo massimo concedibile per singolo progetto è pari a:\nlinea 1:\n1.000.000 di euro.\nlinea 2:\n200.000 euro",
+          "documenti": [],
+          "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
+          "destinatari": [
+            "asd",
+            "ets",
+            "ssd"
+          ]
+        },
+        {
           "titolo": "Otto per mille a gestione diretta statale: bando straordinario cultura&scienza",
           "ente": "Presidenza del Consiglio",
           "scadenza": "SCADENZA:30/11/2026",
@@ -61,6 +87,18 @@
           "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando è pari a\n19.248.542,96 euro",
           "documenti": [],
           "oggetto": "otto per mille a gestione diretta statale: bando straordinario cultura&scienza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
+          "ente": "Unione Induista Italiana",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
+          "dotazione": "",
+          "documenti": [
+            "modulo"
+          ],
+          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -84,40 +122,6 @@
           "destinatari": [
             "ets"
           ]
-        },
-        {
-          "titolo": "International Trans Fund – contributi 2026",
-          "ente": "International Trans Fund",
-          "scadenza": "SCADENZA:01/12/2026",
-          "link": "https://infobandi.csvnet.it/international-trans-fund-contributi-2026/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "international trans fund – contributi 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Nave Italia – Preselezione dei progetti da realizzarsi nel 2027",
-          "ente": "Nave Italia",
-          "scadenza": "SCADENZA:07/12/2026",
-          "link": "https://infobandi.csvnet.it/nave-italia-preselezione-dei-progetti-da-realizzarsi-nel-2027/",
-          "dotazione": "contributo\nil costo di ogni progetto è di 1.800 euro",
-          "documenti": [],
-          "oggetto": "nave italia – preselezione dei progetti da realizzarsi nel 2027 – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
-        {
-          "titolo": "Iniziativa Beni confiscati – Regolamento 2026",
-          "ente": "Fondazione CON IL SUD",
-          "scadenza": "SCADENZA:10/12/2026",
-          "link": "https://infobandi.csvnet.it/iniziativa-beni-confiscati-regolamento-2026/",
-          "dotazione": "contributo\nil contributo non può essere superiore a\n400.000 euro",
-          "documenti": [],
-          "oggetto": "iniziativa beni confiscati – regolamento 2026 – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
         }
       ]
     },
@@ -136,9 +140,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -205,9 +209,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -232,9 +236,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "asd",
             "ets",
-            "ssd",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -246,8 +250,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
-            "asd"
+            "asd",
+            "ets"
           ]
         }
       ]
