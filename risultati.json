@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-03 16:56:02.612393",
+  "data": "2026-11-04 16:58:37.025168",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -74,9 +74,9 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
+            "ets",
             "asd",
-            "ssd",
-            "ets"
+            "ssd"
           ]
         },
         {
@@ -140,9 +140,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
+            "ets",
             "asd",
-            "ssd",
-            "ets"
+            "ssd"
           ]
         },
         {
@@ -159,24 +159,24 @@
           "titolo": "Scarica l'Avviso Pubblico",
           "ente": "Sport e Salute",
           "scadenza": "",
-          "link": "https://www.sportesalute.eu/images/sport-e-vita/Avviso_Pubblico_Lo_Sport_e_vita.pdf",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
-          "destinatari": [
-            "aps",
-            "odv"
-          ]
-        },
-        {
-          "titolo": "Scarica l'Avviso Pubblico",
-          "ente": "Sport e Salute",
-          "scadenza": "",
           "link": "https://www.sportesalute.eu/images/fabbrica/Fabbrica_Avviso_Pubblico.pdf",
           "dotazione": "",
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 24 0 r 28 0 r 30 0 r 31 0 r 34 0 r 36 0 r 38 0 r 41 0 r 44 0 r 46 0 r 50 0 r 51 0 r 54 0 r 56 0 r 58 0 r 59 0 r] /mediabox[ 0 0 595.2 841.8] /contents 4 0 r/group<",
           "destinatari": []
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "Sport e Salute",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/sport-e-vita/Avviso_Pubblico_Lo_Sport_e_vita.pdf",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
+          "destinatari": [
+            "odv",
+            "aps"
+          ]
         },
         {
           "titolo": "Scarica l'Avviso Pubblico",
@@ -209,9 +209,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
+            "ets",
             "asd",
-            "ssd",
-            "ets"
+            "ssd"
           ]
         },
         {
@@ -223,8 +223,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -236,9 +236,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
+            "ets",
             "asd",
-            "ssd",
-            "ets"
+            "ssd"
           ]
         },
         {
@@ -250,8 +250,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         }
       ]
