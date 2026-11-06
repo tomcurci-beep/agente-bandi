@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-05 17:15:00.565772",
+  "data": "2026-11-06 16:40:05.891786",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,16 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "DAPHNE 2026: Prevenire e combattere la violenza di genere e nei confronti dei minori – scadenza posticipata",
-          "ente": "Commissione Europea - DG Giustizia e Consumatori",
-          "scadenza": "SCADENZA:05/11/2026",
-          "link": "https://infobandi.csvnet.it/daphne-2026-prevenire-e-combattere-la-violenza-di-genere-e-nei-confronti-dei-minori/",
-          "dotazione": "dotazione finanziaria disponibile\n21.000.000 euro",
-          "documenti": [],
-          "oggetto": "daphne 2026: prevenire e combattere la violenza di genere e nei confronti dei minori – scadenza posticipata – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Bando Leggimi 0-6 2026",
           "ente": "Cepell",
@@ -74,9 +64,9 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -122,6 +112,16 @@
           "destinatari": [
             "ets"
           ]
+        },
+        {
+          "titolo": "International Trans Fund – contributi 2026",
+          "ente": "International Trans Fund",
+          "scadenza": "SCADENZA:01/12/2026",
+          "link": "https://infobandi.csvnet.it/international-trans-fund-contributi-2026/",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "international trans fund – contributi 2026 – infobandi csvnet",
+          "destinatari": []
         }
       ]
     },
@@ -140,9 +140,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -209,9 +209,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -236,9 +236,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
