@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-12 17:29:12.391302",
+  "data": "2026-11-13 17:03:30.520605",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -9,16 +9,6 @@
       "fonte": "CSVNet (filtro: associazioni sportive)",
       "totale": 10,
       "bandi": [
-        {
-          "titolo": "Bando Intraprendere nel sociale 2026",
-          "ente": "Fondazione Cattolica",
-          "scadenza": "SCADENZA:13/11/2026",
-          "link": "https://infobandi.csvnet.it/bando-intraprendere-nel-sociale-2026/",
-          "dotazione": "contributo\nil contributo massimo per progetto sarà di\n30.000 euro",
-          "documenti": [],
-          "oggetto": "bando intraprendere nel sociale 2026 – infobandi csvnet",
-          "destinatari": []
-        },
         {
           "titolo": "Bando Ganassini 2026: #MaiSoli a sostegno dei caregiver",
           "ente": "Istituto Ganassini",
@@ -53,31 +43,9 @@
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
-        },
-        {
-          "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
-          "ente": "AXA Foundation for Human Progress",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/tackling-violence-against-children-bando-2026-per-italia-e-senegal/",
-          "dotazione": "budget del progetto deve essere compreso\ntra 50.000 e 170.000 euro",
-          "documenti": [],
-          "oggetto": "“tackling violence against children” – bando 2026 per italia e senegal – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
-        {
-          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
-          "ente": "Harambee Italia",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
-          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
-          "documenti": [],
-          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
-          "destinatari": []
         },
         {
           "titolo": "Otto per mille a gestione diretta statale: bando straordinario cultura&scienza",
@@ -102,6 +70,28 @@
           "destinatari": []
         },
         {
+          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
+          "ente": "Harambee Italia",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
+          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
+          "documenti": [],
+          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
+          "ente": "AXA Foundation for Human Progress",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/tackling-violence-against-children-bando-2026-per-italia-e-senegal/",
+          "dotazione": "budget del progetto deve essere compreso\ntra 50.000 e 170.000 euro",
+          "documenti": [],
+          "oggetto": "“tackling violence against children” – bando 2026 per italia e senegal – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
+        },
+        {
           "titolo": "International Trans Fund – contributi 2026",
           "ente": "International Trans Fund",
           "scadenza": "SCADENZA:01/12/2026",
@@ -122,6 +112,18 @@
           ],
           "oggetto": "erase indifference challenge 2026 – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Nave Italia – Preselezione dei progetti da realizzarsi nel 2027",
+          "ente": "Nave Italia",
+          "scadenza": "SCADENZA:07/12/2026",
+          "link": "https://infobandi.csvnet.it/nave-italia-preselezione-dei-progetti-da-realizzarsi-nel-2027/",
+          "dotazione": "contributo\nil costo di ogni progetto è di 1.800 euro",
+          "documenti": [],
+          "oggetto": "nave italia – preselezione dei progetti da realizzarsi nel 2027 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
         }
       ]
     },
@@ -141,8 +143,8 @@
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -210,8 +212,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -237,8 +239,8 @@
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
             "ssd",
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         },
         {
@@ -250,8 +252,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
-            "ets"
+            "ets",
+            "asd"
           ]
         }
       ]
