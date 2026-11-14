@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-13 17:03:30.520605",
+  "data": "2026-11-14 15:40:59.945104",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -42,9 +42,31 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
+          ]
+        },
+        {
+          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
+          "ente": "Harambee Italia",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
+          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
+          "documenti": [],
+          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
+          "ente": "AXA Foundation for Human Progress",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/tackling-violence-against-children-bando-2026-per-italia-e-senegal/",
+          "dotazione": "budget del progetto deve essere compreso\ntra 50.000 e 170.000 euro",
+          "documenti": [],
+          "oggetto": "“tackling violence against children” – bando 2026 per italia e senegal – infobandi csvnet",
+          "destinatari": [
+            "ets"
           ]
         },
         {
@@ -68,28 +90,6 @@
           ],
           "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
           "destinatari": []
-        },
-        {
-          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
-          "ente": "Harambee Italia",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
-          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
-          "documenti": [],
-          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
-          "ente": "AXA Foundation for Human Progress",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/tackling-violence-against-children-bando-2026-per-italia-e-senegal/",
-          "dotazione": "budget del progetto deve essere compreso\ntra 50.000 e 170.000 euro",
-          "documenti": [],
-          "oggetto": "“tackling violence against children” – bando 2026 per italia e senegal – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
         },
         {
           "titolo": "International Trans Fund – contributi 2026",
@@ -142,9 +142,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -211,9 +211,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
@@ -238,9 +238,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
             "ets",
-            "asd"
+            "asd",
+            "ssd"
           ]
         },
         {
