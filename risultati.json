@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-17 18:21:27.579579",
+  "data": "2026-11-18 17:54:40.528694",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -42,32 +42,10 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "ssd",
+            "asd",
             "ets",
-            "asd"
+            "ssd"
           ]
-        },
-        {
-          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
-          "ente": "Unione Induista Italiana",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
-          "dotazione": "",
-          "documenti": [
-            "modulo"
-          ],
-          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
-          "ente": "Harambee Italia",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
-          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
-          "documenti": [],
-          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
-          "destinatari": []
         },
         {
           "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
@@ -82,6 +60,16 @@
           ]
         },
         {
+          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
+          "ente": "Harambee Italia",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
+          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
+          "documenti": [],
+          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
+          "destinatari": []
+        },
+        {
           "titolo": "Otto per mille a gestione diretta statale: bando straordinario cultura&scienza",
           "ente": "Presidenza del Consiglio",
           "scadenza": "SCADENZA:30/11/2026",
@@ -89,6 +77,18 @@
           "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando è pari a\n19.248.542,96 euro",
           "documenti": [],
           "oggetto": "otto per mille a gestione diretta statale: bando straordinario cultura&scienza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
+          "ente": "Unione Induista Italiana",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
+          "dotazione": "",
+          "documenti": [
+            "modulo"
+          ],
+          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -129,8 +129,24 @@
     },
     {
       "fonte": "Sport e Salute",
-      "totale": 27,
+      "totale": 29,
       "bandi": [
+        {
+          "titolo": "Avviso Pubblico - Fase 3",
+          "ente": "Sport e Salute",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/rigenerazioni/avviso-pubblico.html",
+          "dotazione": "",
+          "documenti": [
+            "progetto"
+          ],
+          "oggetto": "registro nazionale delle attività sportive dilettantistiche",
+          "destinatari": [
+            "asd",
+            "ets",
+            "ssd"
+          ]
+        },
         {
           "titolo": "Avviso Sport è Salute",
           "ente": "Sport e Salute",
@@ -142,9 +158,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ssd",
+            "asd",
             "ets",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -156,6 +172,19 @@
           "documenti": [],
           "oggetto": "pubblicato l'avviso per l'acquisto di ausili sportivi ad uso gratuito",
           "destinatari": []
+        },
+        {
+          "titolo": "Scarica l'Avviso Pubblico",
+          "ente": "Sport e Salute",
+          "scadenza": "",
+          "link": "https://www.sportesalute.eu/images/rigenerazioni/RiGenerazioni_Avviso_Pubblico_Fase_3.pdf",
+          "dotazione": "",
+          "documenti": [],
+          "oggetto": "\b\r\u000b\u000b\u000b\u000f\u000e\r\u0010\u0014!\u0015\u0014\u0012\u0012\u0014(\u001d\u001e\u0018!0*21/*.-4;k@48g9-.bybgnptut3?]c\\rbkstq��\u0000c\u0001\u000e\u000f\u000f\u0014\u0011\u0014'\u0015\u0015'q6.6qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq��\u0000\u0011\b\u0000�\u0001�\u0003\u0001\"\u0000\u0002\u0011\u0001\u0003\u0011\u0001��\u0000\u001f\u0000\u0000\u0001\u0005\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b\t",
+          "destinatari": [
+            "ets",
+            "aps"
+          ]
         },
         {
           "titolo": "Scarica l'Avviso Pubblico",
@@ -211,9 +240,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ssd",
+            "asd",
             "ets",
-            "asd"
+            "ssd"
           ]
         },
         {
@@ -227,33 +256,6 @@
           "destinatari": [
             "odv",
             "aps"
-          ]
-        },
-        {
-          "titolo": "Scarica l'Avviso Pubblico",
-          "ente": "Sport e Salute",
-          "scadenza": "",
-          "link": "https://www.sportesalute.eu/images/voucher-lazio/Avviso_Pubblico_ASD_SSD_ETS_2026.pdf",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
-          "destinatari": [
-            "ssd",
-            "ets",
-            "asd"
-          ]
-        },
-        {
-          "titolo": "Scarica l’Avviso Pubblico",
-          "ente": "Sport e Salute",
-          "scadenza": "",
-          "link": "https://www.sportesalute.eu/images/voucher-molise/Voucher_Molise_Avviso_Pubblico_Beneficiari.pdf",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
-          "destinatari": [
-            "ets",
-            "asd"
           ]
         }
       ]
