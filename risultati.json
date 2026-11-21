@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-20 17:40:13.837404",
+  "data": "2026-11-21 16:41:39.667524",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -30,10 +30,22 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "ets",
             "asd",
+            "ets",
             "ssd"
           ]
+        },
+        {
+          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
+          "ente": "Unione Induista Italiana",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
+          "dotazione": "",
+          "documenti": [
+            "modulo"
+          ],
+          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
+          "destinatari": []
         },
         {
           "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
@@ -65,18 +77,6 @@
           "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando è pari a\n19.248.542,96 euro",
           "documenti": [],
           "oggetto": "otto per mille a gestione diretta statale: bando straordinario cultura&scienza – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
-          "ente": "Unione Induista Italiana",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
-          "dotazione": "",
-          "documenti": [
-            "modulo"
-          ],
-          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -140,8 +140,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "asd",
+            "ets",
             "ssd"
           ]
         },
@@ -156,8 +156,8 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "asd",
+            "ets",
             "ssd"
           ]
         },
@@ -180,8 +180,8 @@
           "documenti": [],
           "oggetto": "\b\r\u000b\u000b\u000b\u000f\u000e\r\u0010\u0014!\u0015\u0014\u0012\u0012\u0014(\u001d\u001e\u0018!0*21/*.-4;k@48g9-.bybgnptut3?]c\\rbkstq��\u0000c\u0001\u000e\u000f\u000f\u0014\u0011\u0014'\u0015\u0015'q6.6qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq��\u0000\u0011\b\u0000�\u0001�\u0003\u0001\"\u0000\u0002\u0011\u0001\u0003\u0011\u0001��\u0000\u001f\u0000\u0000\u0001\u0005\u0001\u0001\u0001\u0001\u0001\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b\t",
           "destinatari": [
-            "ets",
-            "aps"
+            "aps",
+            "ets"
           ]
         },
         {
@@ -203,8 +203,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         },
         {
@@ -238,8 +238,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "asd",
+            "ets",
             "ssd"
           ]
         },
@@ -252,8 +252,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "odv",
-            "aps"
+            "aps",
+            "odv"
           ]
         }
       ]
