@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-21 16:41:39.667524",
+  "data": "2026-11-22 17:00:04.680165",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -30,22 +30,10 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
-        },
-        {
-          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
-          "ente": "Unione Induista Italiana",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
-          "dotazione": "",
-          "documenti": [
-            "modulo"
-          ],
-          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
-          "destinatari": []
         },
         {
           "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
@@ -77,6 +65,18 @@
           "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando è pari a\n19.248.542,96 euro",
           "documenti": [],
           "oggetto": "otto per mille a gestione diretta statale: bando straordinario cultura&scienza – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
+          "ente": "Unione Induista Italiana",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
+          "dotazione": "",
+          "documenti": [
+            "modulo"
+          ],
+          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -140,9 +140,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -156,9 +156,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
@@ -238,9 +238,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "asd",
             "ets",
-            "ssd"
+            "ssd",
+            "asd"
           ]
         },
         {
