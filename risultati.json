@@ -1,5 +1,5 @@
 {
-  "data": "2026-11-22 17:00:04.680165",
+  "data": "2026-11-23 21:04:56.602394",
   "filtri": {
     "destinatario": "associazioni sportive",
     "solo_aperti": true
@@ -10,18 +10,6 @@
       "totale": 10,
       "bandi": [
         {
-          "titolo": "Bando CoPower per contrastare la violenza di genere – prima fase",
-          "ente": "Oxfam",
-          "scadenza": "SCADENZA:23/11/2026",
-          "link": "https://infobandi.csvnet.it/bando-copower-per-contrastare-la-violenza-di-genere-prima-fase/",
-          "dotazione": "",
-          "documenti": [],
-          "oggetto": "bando copower per contrastare la violenza di genere – prima fase – infobandi csvnet",
-          "destinatari": [
-            "ets"
-          ]
-        },
-        {
           "titolo": "Bando “Lo Sport è vita”",
           "ente": "Sport e Salute",
           "scadenza": "SCADENZA:28/11/2026",
@@ -30,10 +18,32 @@
           "documenti": [],
           "oggetto": "il motore di ricerca sulle opportunità di finanziamento per il volontariato e terzo settore",
           "destinatari": [
-            "ets",
             "ssd",
-            "asd"
+            "asd",
+            "ets"
           ]
+        },
+        {
+          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
+          "ente": "Unione Induista Italiana",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
+          "dotazione": "",
+          "documenti": [
+            "modulo"
+          ],
+          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
+          "destinatari": []
+        },
+        {
+          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
+          "ente": "Harambee Italia",
+          "scadenza": "SCADENZA:30/11/2026",
+          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
+          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
+          "documenti": [],
+          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
+          "destinatari": []
         },
         {
           "titolo": "“Tackling Violence Against Children” – Bando 2026 per Italia e Senegal",
@@ -48,16 +58,6 @@
           ]
         },
         {
-          "titolo": "Premio Giancarlo Pignone 2026 per progetti a favore delle persone con disabilità",
-          "ente": "Harambee Italia",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/premio-giancarlo-pignone-2026-per-progetti-a-favore-delle-persone-con-disabilita/",
-          "dotazione": "contributo\nai\ntre progetti\nindividuati come vincitori del premio sarà destinato un contributo di\n1.500 euro",
-          "documenti": [],
-          "oggetto": "premio giancarlo pignone 2026 per progetti a favore delle persone con disabilità – infobandi csvnet",
-          "destinatari": []
-        },
-        {
           "titolo": "Otto per mille a gestione diretta statale: bando straordinario cultura&scienza",
           "ente": "Presidenza del Consiglio",
           "scadenza": "SCADENZA:30/11/2026",
@@ -65,18 +65,6 @@
           "dotazione": "dotazione finanziaria disponibile\nla dotazione complessiva del bando è pari a\n19.248.542,96 euro",
           "documenti": [],
           "oggetto": "otto per mille a gestione diretta statale: bando straordinario cultura&scienza – infobandi csvnet",
-          "destinatari": []
-        },
-        {
-          "titolo": "Otto per mille dell’Unione Induista Italiana – anno 2026",
-          "ente": "Unione Induista Italiana",
-          "scadenza": "SCADENZA:30/11/2026",
-          "link": "https://infobandi.csvnet.it/otto-per-mille-dellunione-induista-italiana-anno-2026/",
-          "dotazione": "",
-          "documenti": [
-            "modulo"
-          ],
-          "oggetto": "otto per mille dell’unione induista italiana – anno 2026 – infobandi csvnet",
           "destinatari": []
         },
         {
@@ -122,6 +110,18 @@
           "documenti": [],
           "oggetto": "call for ideas 2026 di fondazione allianz umana mente – infobandi csvnet",
           "destinatari": []
+        },
+        {
+          "titolo": "Iniziativa Beni confiscati – Regolamento 2026",
+          "ente": "Fondazione CON IL SUD",
+          "scadenza": "SCADENZA:10/12/2026",
+          "link": "https://infobandi.csvnet.it/iniziativa-beni-confiscati-regolamento-2026/",
+          "dotazione": "contributo\nil contributo non può essere superiore a\n400.000 euro",
+          "documenti": [],
+          "oggetto": "iniziativa beni confiscati – regolamento 2026 – infobandi csvnet",
+          "destinatari": [
+            "ets"
+          ]
         }
       ]
     },
@@ -140,9 +140,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "ssd",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -156,9 +156,9 @@
           ],
           "oggetto": "registro nazionale delle attività sportive dilettantistiche",
           "destinatari": [
-            "ets",
             "ssd",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -203,8 +203,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         },
         {
@@ -238,9 +238,9 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/mediabox[ 0 0 595.56 842.04] /contents 4 0 r/group<",
           "destinatari": [
-            "ets",
             "ssd",
-            "asd"
+            "asd",
+            "ets"
           ]
         },
         {
@@ -252,8 +252,8 @@
           "documenti": [],
           "oggetto": ">/procset[/pdf/text/imageb/imagec/imagei] >>/annots[ 22 0 r 24 0 r 30 0 r 31 0 r 33 0 r 35 0 r 37 0 r 39 0 r 40 0 r 42 0 r 43 0 r 46 0 r 48 0 r 49 0 r 50 0 r 52 0 r] /mediabox[ 0 0 595.32 841.92] /contents 4 0 r/group<",
           "destinatari": [
-            "aps",
-            "odv"
+            "odv",
+            "aps"
           ]
         }
       ]
